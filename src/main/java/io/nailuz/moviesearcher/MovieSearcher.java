@@ -5,23 +5,22 @@ import java.util.*;
 
 
 public class MovieSearcher {
-    private final InputStream movies;
+    private final Scanner movies;
 
     public MovieSearcher(InputStream movies) {
-        this.movies = movies;
+        this.movies = new Scanner(movies);
     }
 
     public ArrayList<String> searchMovies(List<String> words) {
-        Scanner scanner = new Scanner(this.movies);
         ArrayList<String> results = new ArrayList<>();
-        while (scanner.hasNext()) {
-            String movie = scanner.nextLine();
+        while (this.movies.hasNext()) {
+            String movie = this.movies.nextLine();
             boolean movieContainsWords = words.stream().anyMatch(movie::contains);
             if (movieContainsWords) {
                 results.add(movie.split("->")[0]);
             }
         }
-        scanner.close();
+        this.movies.close();
         return results;
     }
 
