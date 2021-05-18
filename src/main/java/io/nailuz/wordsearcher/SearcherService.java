@@ -32,9 +32,18 @@ public class SearcherService {
         output.close();
     }
 
+    public static Hashtable<String, Set<String>> getCurrentHashTable() throws IOException, ClassNotFoundException {
+        ObjectInputStream input = new ObjectInputStream(new FileInputStream("hash.bin"));
+        Hashtable<String, Set<String>> currentHashtable = (Hashtable<String, Set<String>>) input.readObject();
+        input.close();
+        return currentHashtable;
+    }
+
     public static void main(String[] args) throws IOException {
-        File directory = new File("files");
+        String filePath = args.length > 0 ? args[0] : "files";
+        File directory = new File(filePath);
         Hashtable<String, Set<String>> hashtable = generateHashTable(directory);
-        System.out.println(hashtable.size());
+        System.out.println("Generated hashtable with " + hashtable.size() + " words");
+        saveHashTableAsBin(hashtable);
     }
 }
