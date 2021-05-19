@@ -1,0 +1,1 @@
+movies/data/artworks.txt movies/data/the-gambler-returns-the-luck-of-the-draw.txt

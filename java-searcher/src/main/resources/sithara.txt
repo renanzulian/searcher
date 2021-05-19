@@ -1,0 +1,1 @@
+movies/data/black-truth.txt movies/data/magudikkaran.txt movies/data/kaazhcha.txt

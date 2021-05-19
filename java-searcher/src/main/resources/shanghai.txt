@@ -1,0 +1,1 @@
+movies/data/stuttgart-shanghai.txt movies/data/charlie-chan-in-shanghai.txt movies/data/the-longest-night-in-shanghai.txt

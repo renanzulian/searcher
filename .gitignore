@@ -1,3 +1,4 @@
 .idea/
-out/
-searcher.iml
+**/out/
+**/searcher.iml
+**/target
