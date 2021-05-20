@@ -22,9 +22,9 @@ class MyTestCase(unittest.TestCase):
     def test_should_save_resources_after_script_run(self):
         test_contents = setup.get_content_of_files("example")
         test_resources = setup.resources_generator(test_contents)
-        setup.save_resources(test_resources)
-        self.assertIn("resources", os.listdir())
-        self.assertIn("harvest.txt", os.listdir("resources"))
+        setup.save_words(test_resources)
+        self.assertIn("words", os.listdir())
+        self.assertIn("harvest.txt", os.listdir("words"))
 
 
 if __name__ == '__main__':
