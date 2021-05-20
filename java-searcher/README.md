@@ -37,4 +37,23 @@ Nesse momento, é essencial que você já tenha inserido o seu diretório pré-p
 ```shell
 mvn package
 ```
+
+## Utilizando o Java Searcher
+
+Após ter realizado o build do projeto, o maven irá gerar um arquivo **'searcher.jar'**. Com ele em mãos basta
+executar o seguinte comando:
+
+```shell
+java -jar searcher.jar {PALAVRAS QUE VOCÊ DESEJA PROUCURAR}
+```
+
+Exemplo:
+```shell
+java -jar searcher.jar marvel studio
+```
+
+Obs: Coloque as palavras em sequência separadas por espaço. Não utilize aspas em torno do termo a ser pesquisado.
+
+O algoritmo utiliza o critério **AND** para dar o match nos arquivos. Em outras palavras, só retornará os arquivos que
+contenha todas as palavras fornecidas.
  
