@@ -1,0 +1,1 @@
+movies/data/kedi.txt movies/data/arike.txt

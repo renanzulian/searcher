@@ -1,0 +1,1 @@
+movies/data/zvenigora.txt movies/data/sorochinskaya-yarmarka-sorochintsi-fair.txt movies/data/telegramma.txt movies/data/peculiarities-of-the-national-ice-fishing.txt movies/data/doctor-aybolit.txt

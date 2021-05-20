@@ -1,0 +1,1 @@
+movies/data/dio-finding-the-sacred-heart-live-in-philly-1986.txt movies/data/heaven-hell-neon-nights-30-years-of-heaven-and-hell.txt movies/data/dio-evil-or-divine.txt movies/data/dio-super-rock-85-in-japan.txt movies/data/dio-at-tokyo-super-rock-festival.txt

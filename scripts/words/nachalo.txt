@@ -1,0 +1,1 @@
+movies/data/likha-beda-nachalo.txt movies/data/smeshariki-nachalo.txt

@@ -1,0 +1,1 @@
+movies/data/working-class.txt movies/data/class-dismissed-how-tv-frames-the-working-class.txt movies/data/corey-holcomb-your-way-ain-t-working.txt movies/data/the-death-of-a-working-man-s-newspaper.txt movies/data/working-for-peanuts.txt movies/data/the-shark-is-still-working.txt movies/data/she-s-working-her-way-through-college.txt

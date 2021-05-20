@@ -1,0 +1,1 @@
+movies/data/the-thin-man.txt movies/data/metallica-classic-albums-the-black-album.txt movies/data/metallica-st-anger.txt movies/data/watch-on-the-rhine.txt movies/data/metallica-cliff-em-all.txt movies/data/metallica-mtv-icon.txt movies/data/metallica-live-at-monsters-of-rock-1991.txt

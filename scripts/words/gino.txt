@@ -1,0 +1,1 @@
+movies/data/il-barbiere-di-siviglia.txt movies/data/pest-from-the-west.txt movies/data/un-ombra-su-maigret.txt movies/data/castle-of-the-banned-lovers.txt movies/data/cameriera-bella-presenza-offresi.txt movies/data/the-singing-princess.txt movies/data/massacre.txt

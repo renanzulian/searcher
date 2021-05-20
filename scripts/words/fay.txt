@@ -1,0 +1,1 @@
+movies/data/the-richest-girl-in-the-world.txt movies/data/out-west-with-the-hardys.txt movies/data/kid-galahad.txt movies/data/mystery-of-the-wax-museum.txt movies/data/down-mexico-way.txt movies/data/the-war-against-mrs-hadley.txt movies/data/the-lost-skeleton-of-cadavra.txt movies/data/life-begins-for-andy-hardy.txt movies/data/the-crooked-circle.txt

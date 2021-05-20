@@ -1,0 +1,1 @@
+movies/data/dnevnoy-predstavitel.txt movies/data/bolshaya-rzhaka.txt

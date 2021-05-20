@@ -1,0 +1,1 @@
+movies/data/placebo-main-square-festival-arras.txt movies/data/placebo-live-at-rock-am-ring-2006.txt

@@ -1,0 +1,1 @@
+movies/data/naples-au-baiser-de-feu.txt movies/data/les-bodin-s-retour-au-pays.txt movies/data/adieu-au-tns.txt movies/data/l-arbre-au-chien-pendu.txt movies/data/la-vie-au-bout-des-doigts.txt movies/data/ming-ming.txt
