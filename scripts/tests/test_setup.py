@@ -1,12 +1,16 @@
 import unittest
-import setup
 import os
+import sys
+
+sys.path.insert(0, '..')
+import setup
+
 
 class MyTestCase(unittest.TestCase):
     def test_should_list_all_content_of_a_files_in_a_directory(self):
         test_contents = setup.get_content_of_files("example")
-        self.assertEqual(type(test_contents), list)
         self.assertEqual(len(test_contents), 21)
+        self.assertEqual(type(test_contents), dict)
 
     def test_should_generate_an_map_with_words_as_keys_and_files_as_value(self):
         test_contents = setup.get_content_of_files("example")
