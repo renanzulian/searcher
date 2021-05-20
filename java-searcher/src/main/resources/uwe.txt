@@ -1,1 +1,0 @@
-movies/data/barschel-mord-in-genf.txt movies/data/gothic-der-film.txt movies/data/yellow-submarine.txt movies/data/ripley-s-game.txt movies/data/they-wait.txt movies/data/jahr-des-drachen.txt

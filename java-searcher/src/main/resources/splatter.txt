@@ -1,1 +1,0 @@
-movies/data/splatter-movie.txt movies/data/splatter-university.txt movies/data/splatter-beach.txt movies/data/splatter-farm.txt

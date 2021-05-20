@@ -1,1 +1,0 @@
-movies/data/there-was-a-little-girl.txt movies/data/strike-force.txt

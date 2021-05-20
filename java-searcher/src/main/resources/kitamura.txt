@@ -1,1 +1,0 @@
-movies/data/japan-s-tragedy.txt movies/data/henshin.txt movies/data/one-night-choice-of-evil.txt

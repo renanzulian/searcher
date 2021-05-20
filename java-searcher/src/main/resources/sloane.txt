@@ -1,1 +1,0 @@
-movies/data/twenty-cigarettes.txt movies/data/the-cuckoos.txt movies/data/vice-academy.txt movies/data/half-shot-at-sunrise.txt movies/data/the-big-bet.txt movies/data/hobgoblins-2.txt

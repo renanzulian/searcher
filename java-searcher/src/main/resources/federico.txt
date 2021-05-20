@@ -1,1 +1,0 @@
-movies/data/dos-abrazos.txt movies/data/la-strada.txt movies/data/amore-14.txt movies/data/tulpa-perdizioni-mortali.txt movies/data/ginger-and-fred.txt movies/data/el-caballo-del-diablo.txt

@@ -1,1 +1,0 @@
-movies/data/chiemgauer-volkstheater-st-pauli-in-st-peter.txt

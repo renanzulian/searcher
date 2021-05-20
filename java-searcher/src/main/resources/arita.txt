@@ -1,1 +1,0 @@
-movies/data/president-barack-obama-the-man-and-his-journey.txt

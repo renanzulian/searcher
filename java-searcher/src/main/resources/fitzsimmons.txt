@@ -1,1 +1,0 @@
-movies/data/fiesta.txt movies/data/mistress-frankenstein.txt movies/data/the-devil-with-hitler.txt

@@ -1,1 +1,0 @@
-movies/data/death-wish-3.txt movies/data/the-boy-who-drank-too-much.txt movies/data/hasenjagd-vor-lauter-feigheit-gibt-es-kein-erbarmen.txt

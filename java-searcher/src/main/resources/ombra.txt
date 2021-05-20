@@ -1,1 +1,0 @@
-movies/data/un-ombra-su-maigret.txt movies/data/all-ombra-della-croce.txt

@@ -1,1 +1,0 @@
-movies/data/the-white-stripes-under-blackpool-lights.txt movies/data/the-detroit-rock-movie.txt

@@ -1,1 +1,0 @@
-movies/data/paper-soldiers.txt movies/data/state-property.txt

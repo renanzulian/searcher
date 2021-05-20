@@ -1,1 +1,0 @@
-movies/data/mallory-must-not-die.txt

@@ -1,1 +1,0 @@
-movies/data/jury-duty.txt movies/data/whitney-cummings-money-shot.txt

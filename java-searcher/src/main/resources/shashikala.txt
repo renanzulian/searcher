@@ -1,1 +1,0 @@
-movies/data/sujata.txt movies/data/junglee.txt

@@ -1,1 +1,0 @@
-movies/data/mondo-lux-die-bilderwelten-des-werner-schroeter.txt

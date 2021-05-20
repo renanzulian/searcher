@@ -1,1 +1,0 @@
-movies/data/hitler-s-kaput.txt movies/data/bolshaya-rzhaka.txt

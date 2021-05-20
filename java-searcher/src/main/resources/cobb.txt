@@ -1,1 +1,0 @@
-movies/data/call-northside-777.txt movies/data/the-man-who-cheated-himself.txt movies/data/san-quentin.txt movies/data/boxing-gloves.txt movies/data/on-the-waterfront.txt

@@ -1,1 +1,0 @@
-movies/data/metallica-cliff-em-all.txt movies/data/metallica-classic-albums-the-black-album.txt movies/data/metallica-mtv-icon.txt movies/data/metallica-live-at-monsters-of-rock-1991.txt movies/data/metallica-st-anger.txt

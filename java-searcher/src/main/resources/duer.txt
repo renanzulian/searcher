@@ -1,1 +1,0 @@
-movies/data/irene.txt movies/data/roberta.txt movies/data/are-parents-people.txt

@@ -1,1 +1,0 @@
-movies/data/the-bird-with-the-crystal-plumage.txt

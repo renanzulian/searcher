@@ -1,1 +1,0 @@
-movies/data/blue-hawaii.txt movies/data/serena.txt movies/data/lola.txt movies/data/to-the-devil-a-daughter.txt movies/data/intimacy.txt movies/data/the-virgin-and-the-gypsy.txt movies/data/the-glass-cage.txt

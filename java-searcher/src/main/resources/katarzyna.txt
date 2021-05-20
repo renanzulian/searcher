@@ -1,1 +1,0 @@
-movies/data/the-washing-machine.txt movies/data/ajlawju.txt

@@ -1,1 +1,0 @@
-movies/data/doroga.txt movies/data/ubiystvo-v-sunshine-menor.txt movies/data/nayti-i-obezvredit.txt

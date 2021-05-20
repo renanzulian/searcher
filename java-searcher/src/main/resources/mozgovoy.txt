@@ -1,1 +1,0 @@
-movies/data/telets.txt movies/data/the-stone.txt

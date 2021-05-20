@@ -1,1 +1,0 @@
-movies/data/phra-rot-meri.txt movies/data/tah-tien.txt

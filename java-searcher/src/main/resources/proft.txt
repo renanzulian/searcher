@@ -1,1 +1,0 @@
-movies/data/lucky-stiff.txt

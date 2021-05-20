@@ -1,1 +1,0 @@
-movies/data/kino-week.txt movies/data/the-squaw-man.txt movies/data/tih-minh.txt movies/data/shifting-sands.txt movies/data/bud-s-recruit.txt movies/data/tarzan-of-the-apes.txt movies/data/somewhere-in-turkey.txt movies/data/huns-and-hyphens.txt movies/data/a-w-o-l.txt movies/data/vive-la-france.txt

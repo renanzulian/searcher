@@ -1,1 +1,0 @@
-movies/data/divine.txt movies/data/romanzo-d-amore.txt

@@ -1,1 +1,0 @@
-movies/data/egyptian-fakir-with-dancing-monkey.txt

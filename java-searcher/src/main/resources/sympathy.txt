@@ -1,1 +1,0 @@
-movies/data/sympathy.txt movies/data/tea-and-sympathy.txt

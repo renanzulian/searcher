@@ -1,1 +1,0 @@
-movies/data/ne-skazhu.txt movies/data/the-departure-of-a-great-old-man.txt

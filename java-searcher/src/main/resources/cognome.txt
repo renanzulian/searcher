@@ -1,1 +1,0 @@
-movies/data/ligabue-teatro-nome-e-cognome-tour.txt movies/data/ligabue-palasport-nome-e-cognome-tour.txt

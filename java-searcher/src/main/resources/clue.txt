@@ -1,1 +1,0 @@
-movies/data/the-scarlet-clue.txt movies/data/get-a-clue.txt movies/data/danes-without-a-clue.txt

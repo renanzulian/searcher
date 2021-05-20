@@ -1,1 +1,0 @@
-movies/data/claymation-comedy-of-horrors.txt movies/data/comedy-s-dirtiest-dozen.txt movies/data/the-muppets-all-star-comedy-gala.txt movies/data/world-comedy-unplugged-2004.txt movies/data/zulu-comedy-galla-12.txt

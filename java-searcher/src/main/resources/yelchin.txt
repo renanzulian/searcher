@@ -1,1 +1,0 @@
-movies/data/fierce-people.txt movies/data/terminator-salvation.txt

@@ -1,1 +1,0 @@
-movies/data/nasreddin-in-bukhara.txt movies/data/a-plasticine-crow.txt movies/data/brodyachiy-avtobus.txt

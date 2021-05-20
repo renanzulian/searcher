@@ -1,1 +1,0 @@
-movies/data/donetskie-shakhtyory.txt movies/data/the-stone-flower.txt

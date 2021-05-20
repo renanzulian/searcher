@@ -1,1 +1,0 @@
-movies/data/shikshanachya-aaicha-gho.txt movies/data/one-room-kitchen.txt

@@ -1,1 +1,0 @@
-movies/data/grandmaster.txt movies/data/black-truth.txt movies/data/dheem-tharikida-thom.txt

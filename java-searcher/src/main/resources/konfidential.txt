@@ -1,1 +1,0 @@
-movies/data/kiss-1993-konfidential.txt

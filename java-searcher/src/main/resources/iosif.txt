@@ -1,1 +1,0 @@
-movies/data/asya.txt movies/data/ivan.txt movies/data/brodyachiy-avtobus.txt

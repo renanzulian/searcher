@@ -1,1 +1,0 @@
-movies/data/the-life-before-her-eyes.txt movies/data/white-bird-in-a-blizzard.txt

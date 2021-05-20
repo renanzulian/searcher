@@ -1,1 +1,0 @@
-movies/data/teachers.txt movies/data/summer-school-teachers.txt movies/data/the-home-teachers.txt

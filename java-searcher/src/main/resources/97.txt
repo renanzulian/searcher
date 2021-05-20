@@ -1,1 +1,0 @@
-movies/data/97-owned.txt

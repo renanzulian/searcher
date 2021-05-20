@@ -1,1 +1,0 @@
-movies/data/my-big-fat-independent-movie.txt movies/data/depeche-mode-the-videos-86-98.txt movies/data/depeche-mode-strange-too.txt

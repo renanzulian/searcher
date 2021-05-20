@@ -1,1 +1,0 @@
-movies/data/tarzan.txt movies/data/the-last-house-on-the-left.txt movies/data/the-6th-day.txt movies/data/the-winning-of-barbara-worth.txt movies/data/what-happened-to-rosa.txt movies/data/conviction.txt movies/data/ghost.txt

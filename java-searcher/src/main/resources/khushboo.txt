@@ -1,1 +1,0 @@
-movies/data/nattamai.txt movies/data/michael-madana-kamarajan.txt movies/data/bhargava.txt movies/data/simmarasi.txt

@@ -1,1 +1,0 @@
-movies/data/grand-hotel.txt movies/data/garbo-talks.txt movies/data/queen-christina.txt movies/data/the-painted-veil.txt

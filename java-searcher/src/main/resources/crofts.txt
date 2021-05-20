@@ -1,1 +1,0 @@
-movies/data/london-s-trafalgar-square.txt

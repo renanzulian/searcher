@@ -1,1 +1,0 @@
-movies/data/in-my-country.txt movies/data/juliette-of-the-herbs.txt movies/data/my-louisiana-sky.txt movies/data/un-couple.txt movies/data/code-unknown.txt movies/data/the-way-of-the-gun.txt movies/data/the-trojan-horse.txt

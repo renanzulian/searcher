@@ -1,1 +1,0 @@
-movies/data/ram-avtar.txt

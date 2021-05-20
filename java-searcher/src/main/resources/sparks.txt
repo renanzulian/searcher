@@ -1,1 +1,0 @@
-movies/data/meet-wally-sparks.txt movies/data/state-property.txt

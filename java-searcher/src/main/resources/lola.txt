@@ -1,1 +1,0 @@
-movies/data/public-stenographer.txt movies/data/they-made-me-a-killer.txt movies/data/girls-of-the-road.txt movies/data/lola.txt movies/data/la-missione-di-clara-rinker.txt movies/data/certain-prey.txt movies/data/the-money-jungle.txt movies/data/die-libelle-und-das-nashorn.txt movies/data/pawnee.txt movies/data/kid-galahad.txt movies/data/consequence.txt

@@ -1,1 +1,0 @@
-movies/data/nasreddin-in-bukhara.txt movies/data/one-hundred-days-after-childhood.txt movies/data/heiress-in-a-straight-line.txt movies/data/black-sheep.txt movies/data/assa.txt movies/data/anna-karenina.txt

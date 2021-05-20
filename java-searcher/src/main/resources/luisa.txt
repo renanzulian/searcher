@@ -1,1 +1,0 @@
-movies/data/lightning-strike.txt movies/data/day-night-day-night.txt movies/data/wer-hat-angst-vorm-schwarzen-mann.txt

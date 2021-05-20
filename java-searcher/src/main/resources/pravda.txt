@@ -1,1 +1,0 @@
-movies/data/kino-pravda-no-17.txt

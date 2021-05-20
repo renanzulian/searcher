@@ -1,1 +1,0 @@
-movies/data/a-farewell-to-arms.txt movies/data/farewell-in-june.txt

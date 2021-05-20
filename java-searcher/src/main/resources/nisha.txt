@@ -1,1 +1,0 @@
-movies/data/fast-food-high.txt movies/data/seru.txt movies/data/solo.txt

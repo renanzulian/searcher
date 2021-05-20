@@ -1,1 +1,0 @@
-movies/data/the-law-and-jake-wade.txt movies/data/halls-of-montezuma.txt movies/data/take-the-high-ground.txt movies/data/the-alamo.txt movies/data/judgment-at-nuremberg.txt movies/data/bear-island.txt movies/data/to-the-devil-a-daughter.txt movies/data/a-prize-of-gold.txt movies/data/no-way-out.txt

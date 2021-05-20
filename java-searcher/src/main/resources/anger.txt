@@ -1,1 +1,0 @@
-movies/data/kenneth-anger-s-hollywood-babylon.txt movies/data/scorpio-rising.txt movies/data/fist-of-anger.txt movies/data/my-surfing-lucifer.txt movies/data/puce-moment.txt movies/data/anger-me.txt movies/data/metallica-st-anger.txt movies/data/rabbit-s-moon.txt movies/data/invocation-of-my-demon-brother.txt

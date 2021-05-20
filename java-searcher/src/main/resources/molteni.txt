@@ -1,1 +1,0 @@
-movies/data/take-all-of-me.txt movies/data/black-emmanuelle.txt movies/data/three-bullets-for-ringo.txt movies/data/colt-in-the-hand-of-the-devil.txt

@@ -1,1 +1,0 @@
-movies/data/paul-der-fisch.txt

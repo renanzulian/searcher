@@ -1,1 +1,0 @@
-movies/data/ein-sommer-in-long-island.txt movies/data/a-trip-to-inside.txt movies/data/kat.txt movies/data/don-giovanni.txt

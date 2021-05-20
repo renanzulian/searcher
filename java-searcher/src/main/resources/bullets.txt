@@ -1,1 +1,0 @@
-movies/data/6-bullets.txt movies/data/bullets-for-o-hara.txt movies/data/three-bullets-for-ringo.txt

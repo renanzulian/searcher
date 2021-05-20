@@ -1,1 +1,0 @@
-movies/data/sprung.txt movies/data/endgame.txt movies/data/pmmp-live-at-ylex-pop.txt movies/data/nature-of-the-beast.txt movies/data/the-parallax-view.txt movies/data/precious.txt movies/data/the-legend-of-bigfoot.txt movies/data/moonlight.txt movies/data/saturday-the-14th.txt movies/data/paula-fernandes-live.txt movies/data/dio-evil-or-divine.txt movies/data/shuffle.txt

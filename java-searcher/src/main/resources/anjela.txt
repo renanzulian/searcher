@@ -1,1 +1,0 @@
-movies/data/babymother.txt movies/data/sus.txt

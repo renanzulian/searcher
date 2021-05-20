@@ -1,1 +1,0 @@
-movies/data/vanakkatukuriya-kathaliye.txt movies/data/thithikudhe.txt movies/data/deiva-vaakku.txt movies/data/devathayai-kanden.txt movies/data/thulasi.txt movies/data/chandralekha.txt movies/data/panakkaran.txt movies/data/gitanjali.txt

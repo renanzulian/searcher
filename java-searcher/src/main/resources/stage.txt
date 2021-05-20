@@ -1,1 +1,0 @@
-movies/data/alice-is-stage-struck.txt movies/data/stage-struck.txt movies/data/stage-beauty.txt movies/data/my-chemical-romance-live-at-valencia-mtv-world-stage.txt movies/data/arizona-stage-coach.txt movies/data/laughing-at-life.txt

@@ -1,1 +1,0 @@
-movies/data/highlander.txt movies/data/resurrection.txt movies/data/on-the-beach.txt

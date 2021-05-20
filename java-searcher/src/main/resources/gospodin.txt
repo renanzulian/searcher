@@ -1,1 +1,0 @@
-movies/data/gospodin-gimnazist.txt

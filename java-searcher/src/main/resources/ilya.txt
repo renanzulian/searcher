@@ -1,1 +1,0 @@
-movies/data/telegramma.txt movies/data/karantin.txt movies/data/we-didn-t-learn-this.txt movies/data/12-chairs.txt

@@ -1,1 +1,0 @@
-movies/data/aurora.txt movies/data/lera.txt

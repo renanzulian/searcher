@@ -1,1 +1,0 @@
-movies/data/maayavi.txt movies/data/mass.txt movies/data/tagore.txt movies/data/manikanda.txt movies/data/dhool.txt movies/data/raja.txt movies/data/vaali.txt

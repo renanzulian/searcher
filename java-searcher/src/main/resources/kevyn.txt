@@ -1,1 +1,0 @@
-movies/data/scar-crow.txt

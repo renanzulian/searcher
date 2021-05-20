@@ -1,1 +1,0 @@
-movies/data/greeku-veerudu.txt movies/data/bodyguard.txt movies/data/sattam-oru-iruttarai.txt

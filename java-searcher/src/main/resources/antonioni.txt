@@ -1,1 +1,0 @@
-movies/data/people-of-the-po-valley.txt movies/data/lies-of-love.txt movies/data/le-amiche.txt

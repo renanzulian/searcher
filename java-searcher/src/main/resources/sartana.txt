@@ -1,1 +1,0 @@
-movies/data/sartana-kills-them-all.txt movies/data/if-you-meet-sartana-pray-for-your-death.txt

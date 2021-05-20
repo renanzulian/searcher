@@ -1,1 +1,0 @@
-movies/data/pride-final-conflict-2005.txt movies/data/ufc-on-fox-shogun-vs-vera.txt movies/data/ufc-113-machida-vs-shogun-2.txt movies/data/pride-critical-countdown-2005.txt

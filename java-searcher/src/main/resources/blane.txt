@@ -1,1 +1,0 @@
-movies/data/heritage-of-the-desert.txt movies/data/desdemona-a-love-story.txt

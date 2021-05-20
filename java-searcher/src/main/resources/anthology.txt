@@ -1,1 +1,0 @@
-movies/data/bruce-springsteen-the-complete-video-anthology-1978-2000.txt movies/data/blonde-deluxe-anthology.txt

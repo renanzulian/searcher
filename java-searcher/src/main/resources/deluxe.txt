@@ -1,1 +1,0 @@
-movies/data/latex-service.txt movies/data/blonde-deluxe-anthology.txt movies/data/all-star-teens-3.txt

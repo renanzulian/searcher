@@ -1,1 +1,0 @@
-movies/data/judge-minty.txt

@@ -1,1 +1,0 @@
-movies/data/miranda.txt movies/data/senso-45.txt movies/data/the-voyeur.txt

@@ -1,1 +1,0 @@
-movies/data/closed-season.txt movies/data/closed-curtain.txt movies/data/the-house-with-closed-shutters.txt

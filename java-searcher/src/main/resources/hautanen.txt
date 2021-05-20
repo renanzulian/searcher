@@ -1,1 +1,0 @@
-movies/data/teddy-roosevelt-an-american-lion.txt

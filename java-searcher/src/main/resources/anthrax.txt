@@ -1,1 +1,0 @@
-movies/data/anthrax-alive-2.txt movies/data/anthrax-return-of-the-killer-a-s.txt

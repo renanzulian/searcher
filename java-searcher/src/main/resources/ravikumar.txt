@@ -1,1 +1,0 @@
-movies/data/dasavatharam.txt movies/data/aagathan.txt movies/data/bava-nachadu.txt movies/data/narasimha.txt movies/data/paarai.txt movies/data/nattamai.txt

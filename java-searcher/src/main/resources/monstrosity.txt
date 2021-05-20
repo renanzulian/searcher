@@ -1,1 +1,0 @@
-movies/data/monstrosity.txt

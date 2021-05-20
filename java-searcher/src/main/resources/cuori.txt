@@ -1,1 +1,0 @@
-movies/data/cuori-nella-tormenta.txt movies/data/cuori-senza-frontiere.txt

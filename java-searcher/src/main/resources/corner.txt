@@ -1,1 +1,0 @@
-movies/data/street-corner.txt movies/data/in-this-corner.txt movies/data/love-shack.txt

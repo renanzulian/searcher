@@ -1,1 +1,0 @@
-movies/data/the-sex-killer.txt movies/data/prostitutes-protective-society.txt movies/data/reign-of-the-gargoyles.txt movies/data/the-beast-that-killed-women.txt movies/data/the-love-cult.txt

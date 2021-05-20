@@ -1,1 +1,0 @@
-movies/data/ted-bundy.txt movies/data/the-perfect-roommate.txt

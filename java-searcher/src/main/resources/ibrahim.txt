@@ -1,1 +1,0 @@
-movies/data/black-truth.txt movies/data/nasib-do-re-mi.txt movies/data/red-heart.txt

@@ -1,1 +1,0 @@
-movies/data/chupke-chupke.txt

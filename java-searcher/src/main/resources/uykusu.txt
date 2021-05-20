@@ -1,1 +1,0 @@
-movies/data/kan-uykusu.txt

@@ -1,1 +1,0 @@
-movies/data/mtv-o-melhor-dos-acusticos.txt

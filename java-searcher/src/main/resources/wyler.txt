@@ -1,1 +1,0 @@
-movies/data/the-collector.txt movies/data/high-jump.txt movies/data/the-letter.txt movies/data/detective-story.txt movies/data/counsellor-at-law.txt

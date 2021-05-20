@@ -1,1 +1,0 @@
-movies/data/shikshanachya-aaicha-gho.txt movies/data/bose-the-forgotten-hero.txt movies/data/chaalis-chauraasi.txt movies/data/pyaasa.txt movies/data/aiyyaa.txt

@@ -1,1 +1,0 @@
-movies/data/trick-or-treats.txt movies/data/cheap-trick-sgt-pepper-live.txt movies/data/trick-the-movie-psychic-battle-royale.txt

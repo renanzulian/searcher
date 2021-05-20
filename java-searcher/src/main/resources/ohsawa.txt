@@ -1,1 +1,0 @@
-movies/data/wolf-children.txt movies/data/sennen-tabito.txt

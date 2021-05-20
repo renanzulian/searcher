@@ -1,1 +1,0 @@
-movies/data/kai-kodutha-deivam.txt movies/data/ee-parakkum-thalika.txt

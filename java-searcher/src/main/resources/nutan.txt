@@ -1,1 +1,0 @@
-movies/data/seema.txt movies/data/saajan-ki-saheli.txt movies/data/sujata.txt

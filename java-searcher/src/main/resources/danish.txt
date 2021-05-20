@@ -1,1 +1,0 @@
-movies/data/dua-kalimah.txt movies/data/danish-love-acts.txt movies/data/aab-danish-champions-2008.txt

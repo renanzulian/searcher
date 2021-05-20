@@ -1,1 +1,0 @@
-movies/data/kennedy.txt movies/data/honeymoon.txt movies/data/the-tell-tale-heart.txt movies/data/the-threat.txt movies/data/preppies.txt

@@ -1,1 +1,0 @@
-movies/data/fingers-on-trigger.txt movies/data/blue-suede-shoes.txt

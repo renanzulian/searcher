@@ -1,1 +1,0 @@
-movies/data/sartana-kills-them-all.txt

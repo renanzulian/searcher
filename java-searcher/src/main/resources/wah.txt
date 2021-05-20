@@ -1,1 +1,0 @@
-movies/data/coward-bastard.txt movies/data/the-supreme-swordsman.txt movies/data/futago.txt movies/data/rape-trap.txt movies/data/a-wicked-ghost-ii-the-fear.txt movies/data/crazy-blood.txt

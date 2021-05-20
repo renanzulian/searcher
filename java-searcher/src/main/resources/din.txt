@@ -1,1 +1,0 @@
-movies/data/nasib-do-re-mi.txt movies/data/char-din-ki-chandni.txt movies/data/west-is-west.txt

@@ -1,1 +1,0 @@
-movies/data/inside-the-twin-towers.txt movies/data/the-thorn-in-the-heart.txt

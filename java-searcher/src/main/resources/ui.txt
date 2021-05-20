@@ -1,1 +1,0 @@
-movies/data/finding-mr-destiny.txt movies/data/vegetarian.txt

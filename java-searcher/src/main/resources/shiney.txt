@@ -1,1 +1,0 @@
-movies/data/zindaggi-rocks.txt movies/data/khoya-khoya-chand.txt movies/data/woh-lamhe.txt

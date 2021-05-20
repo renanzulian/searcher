@@ -1,1 +1,0 @@
-movies/data/news-from-home.txt movies/data/le-retour-de-casanova.txt movies/data/bricol-girls.txt movies/data/stag-fight.txt movies/data/grands-soirs-et-petits-matins.txt movies/data/nice-time.txt movies/data/the-big-ceremonial.txt movies/data/veronique-and-her-dunce.txt movies/data/any-number-can-win.txt

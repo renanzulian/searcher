@@ -1,1 +1,0 @@
-movies/data/ty-mne-snishsya.txt

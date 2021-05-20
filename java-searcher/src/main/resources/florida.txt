@@ -1,1 +1,0 @@
-movies/data/1997-mlb-world-series-florida-marlins-vs-cleveland-indians.txt movies/data/florida-gators-back-2-back-national-champions-2006-2007.txt movies/data/2006-ncaa-men-s-basketball-championship-florida-vs-ucla.txt

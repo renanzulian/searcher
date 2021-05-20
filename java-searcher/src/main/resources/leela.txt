@@ -1,1 +1,0 @@
-movies/data/awaara.txt movies/data/khamoshi-the-musical.txt movies/data/shirin-farhad-ki-toh-nikal-padi.txt movies/data/hum-dil-de-chuke-sanam.txt

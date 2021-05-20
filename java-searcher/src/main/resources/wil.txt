@@ -1,1 +1,0 @@
-movies/data/the-curse.txt movies/data/dead-end.txt movies/data/ring-of-steel.txt

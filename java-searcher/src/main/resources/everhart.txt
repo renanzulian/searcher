@@ -1,1 +1,0 @@
-movies/data/point-doom.txt movies/data/bittersweet.txt movies/data/wicked-minds.txt

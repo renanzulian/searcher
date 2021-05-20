@@ -1,1 +1,0 @@
-movies/data/311-enlarged-to-show-detail.txt

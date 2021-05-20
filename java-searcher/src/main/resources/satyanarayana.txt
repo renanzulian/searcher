@@ -1,1 +1,0 @@
-movies/data/aavida-maa-aavide.txt movies/data/akkada-ammayi-ikkada-abbayi.txt

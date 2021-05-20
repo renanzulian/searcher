@@ -1,1 +1,0 @@
-movies/data/choopulu-kalasina-shubhavela.txt movies/data/kayda-kanoon.txt

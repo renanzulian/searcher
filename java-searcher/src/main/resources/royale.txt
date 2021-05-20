@@ -1,1 +1,0 @@
-movies/data/trick-the-movie-psychic-battle-royale.txt movies/data/strip-mahjong-battle-royale.txt

@@ -1,1 +1,0 @@
-movies/data/magic-island.txt movies/data/captured.txt movies/data/night-of-the-living-dead-re-animation.txt

@@ -1,1 +1,0 @@
-movies/data/der-berg-des-schicksals.txt

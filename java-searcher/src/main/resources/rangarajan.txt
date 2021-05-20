@@ -1,1 +1,0 @@
-movies/data/meendum-kokila.txt movies/data/maharasan.txt movies/data/roja.txt movies/data/chellamae.txt

@@ -1,1 +1,0 @@
-movies/data/per-qualche-dollaro-in-meno.txt movies/data/natale-a-4-zampe.txt

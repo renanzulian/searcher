@@ -1,1 +1,0 @@
-movies/data/spring.txt movies/data/four-hearts.txt movies/data/the-god.txt movies/data/ivan.txt movies/data/the-magic-voyage-of-sinbad.txt movies/data/nomer-lyuks-dlya-generala-s-devochkoi.txt movies/data/the-tavern-on-pyatnitskaya.txt movies/data/dog-barbos-and-unusual-cross.txt

@@ -1,1 +1,0 @@
-movies/data/vardi.txt movies/data/sat-sri-akal.txt

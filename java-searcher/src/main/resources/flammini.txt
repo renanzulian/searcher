@@ -1,1 +1,0 @@
-movies/data/amore-14.txt

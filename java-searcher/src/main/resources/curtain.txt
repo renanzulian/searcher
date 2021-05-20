@@ -1,1 +1,0 @@
-movies/data/curtain-call.txt movies/data/the-iron-curtain.txt movies/data/closed-curtain.txt

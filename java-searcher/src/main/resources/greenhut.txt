@@ -1,1 +1,0 @@
-movies/data/zelig.txt movies/data/everyone-says-i-love-you.txt movies/data/the-purple-rose-of-cairo.txt

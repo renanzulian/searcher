@@ -1,1 +1,0 @@
-movies/data/the-richest-girl-in-the-world.txt movies/data/plain-dirty.txt movies/data/swordfish.txt movies/data/commune.txt movies/data/it-s-tough-to-be-a-bird.txt movies/data/burning-water.txt movies/data/father-of-the-bride.txt movies/data/father-s-little-dividend.txt movies/data/artie.txt movies/data/misbegotten.txt movies/data/nothing-but-trouble.txt movies/data/turbo.txt

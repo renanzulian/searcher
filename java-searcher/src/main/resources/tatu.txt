@@ -1,1 +1,0 @@
-movies/data/tatu-truth-live-in-st-petersburg.txt

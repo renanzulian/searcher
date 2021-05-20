@@ -1,1 +1,0 @@
-movies/data/pyramid.txt movies/data/zindeeq.txt

@@ -1,1 +1,0 @@
-movies/data/the-curse.txt movies/data/tarantulas-the-deadly-cargo.txt movies/data/a-man-called-sledge.txt movies/data/where-evil-lives.txt

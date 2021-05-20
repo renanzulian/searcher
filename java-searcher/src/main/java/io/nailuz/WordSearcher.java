@@ -1,14 +1,17 @@
 package io.nailuz;
 
 import java.io.*;
+import java.nio.file.Files;
 import java.util.*;
 
 public class WordSearcher {
-    ClassLoader classLoader;
+    ClassLoader classLoader = getClass().getClassLoader();
 
-    public WordSearcher() {
-        this.classLoader = getClass().getClassLoader();
+    public WordSearcher(ClassLoader classLoader) {
+        this.classLoader = classLoader;
     }
+
+    public WordSearcher() {}
 
     public Set<String> search(String[] words) {
         List<Set<String>> contents = new ArrayList<>();
@@ -28,20 +31,20 @@ public class WordSearcher {
     private Set<String> getContents(String fileName) {
         Set<String> results = new TreeSet<>();
         try {
-            InputStream is = this.classLoader.getResourceAsStream( fileName + ".txt");
-            if (is == null)
-                throw new IOException();
+            String resourcePathName = "words/" + fileName + ".txt";
+            InputStream is = this.classLoader.getResourceAsStream(resourcePathName);
             BufferedReader reader = new BufferedReader(new InputStreamReader(is));
             String content;
             if ((content = reader.readLine()) != null) {
                 results.addAll(Arrays.asList(content.split(" ")));
             }
             reader.close();
-        } catch (Exception ignored){ }
+        } catch (Exception ignored) {
+        }
         return results;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         WordSearcher ws = new WordSearcher();
         Set<String> fileNames = ws.search(args);
         System.out.println("Foram encontradas " + fileNames.size() + " ocorrências pelo termo.");

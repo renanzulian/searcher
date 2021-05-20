@@ -1,1 +1,0 @@
-movies/data/bloodfist-v.txt movies/data/bloodfist-iii-forced-to-fight.txt movies/data/bloodfist.txt

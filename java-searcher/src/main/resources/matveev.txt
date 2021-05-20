@@ -1,1 +1,0 @@
-movies/data/august-eighth.txt movies/data/ne-skazhu.txt movies/data/exchange-wedding.txt

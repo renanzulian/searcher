@@ -1,1 +1,0 @@
-movies/data/sandow.txt movies/data/jeux-d-enfants-dans-une-rue.txt movies/data/ostriches.txt movies/data/lone-fisherman.txt movies/data/cavalcade-char-du-soleil.txt movies/data/panorama-du-grand-canal-pris-d-un-bateau.txt movies/data/on-westminster-bridge.txt movies/data/shooting-the-chutes.txt movies/data/yarmouth-fishing-boats-leaving-harbour.txt movies/data/a-morning-bath.txt

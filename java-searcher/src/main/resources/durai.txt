@@ -1,1 +1,0 @@
-movies/data/pithamagan.txt movies/data/nepali.txt movies/data/ethir-neechal.txt

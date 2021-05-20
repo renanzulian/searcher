@@ -1,1 +1,0 @@
-movies/data/sterne-in-der-stadt.txt movies/data/no-exit.txt

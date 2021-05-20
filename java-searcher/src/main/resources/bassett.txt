@@ -1,1 +1,0 @@
-movies/data/what-s-love-got-to-do-with-it.txt movies/data/west-is-west.txt movies/data/malcolm-x.txt

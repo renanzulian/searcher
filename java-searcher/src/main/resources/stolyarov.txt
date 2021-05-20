@@ -1,1 +1,0 @@
-movies/data/the-magic-voyage-of-sinbad.txt movies/data/kashchey-the-immortal.txt

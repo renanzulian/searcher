@@ -1,1 +1,0 @@
-movies/data/povest-nepogashennoy-luny.txt

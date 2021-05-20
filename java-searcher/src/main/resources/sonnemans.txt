@@ -1,1 +1,0 @@
-movies/data/death-in-the-seine.txt

@@ -1,1 +1,0 @@
-movies/data/knife-fight.txt movies/data/live.txt movies/data/nanking.txt

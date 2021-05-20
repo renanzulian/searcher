@@ -1,1 +1,0 @@
-movies/data/the-young-doctors.txt movies/data/jack-the-giant-killer.txt movies/data/stalker.txt movies/data/the-cold-killer.txt movies/data/lovers-and-lollipops.txt

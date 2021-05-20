@@ -1,1 +1,0 @@
-movies/data/private-gold-4-amazonas.txt

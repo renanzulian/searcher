@@ -1,1 +1,0 @@
-movies/data/cheyenne-warrior.txt movies/data/the-stoning.txt movies/data/frost-bite.txt

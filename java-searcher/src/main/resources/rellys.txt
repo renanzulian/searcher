@@ -1,1 +1,0 @@
-movies/data/manon-of-the-spring.txt

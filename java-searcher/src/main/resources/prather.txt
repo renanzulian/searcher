@@ -1,1 +1,0 @@
-movies/data/rabbit-test.txt

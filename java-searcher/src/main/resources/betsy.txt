@@ -1,1 +1,0 @@
-movies/data/schizopolis.txt movies/data/betsy-s-wedding.txt movies/data/friday-the-13th.txt movies/data/queen-bee.txt movies/data/room-for-one-more.txt movies/data/private-school.txt movies/data/saw-vi.txt

@@ -1,1 +1,0 @@
-movies/data/alexandra.txt movies/data/hell-s-bells.txt movies/data/otstavnoy-kozy-barabanshchik.txt movies/data/kashchey-the-immortal.txt movies/data/karantin.txt

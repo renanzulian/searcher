@@ -1,1 +1,0 @@
-movies/data/alexandra.txt movies/data/days-of-eclipse.txt movies/data/a-humble-life.txt movies/data/oriental-elegy.txt movies/data/telets.txt movies/data/the-stone.txt movies/data/sonata-for-hitler.txt movies/data/mother-and-son.txt

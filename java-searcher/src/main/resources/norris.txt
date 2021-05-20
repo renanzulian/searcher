@@ -1,1 +1,0 @@
-movies/data/doctors-don-t-tell.txt movies/data/platoon-leader.txt movies/data/the-bashful-bachelor.txt movies/data/end-of-the-road.txt movies/data/billy-frankenstein.txt movies/data/the-six-thousand-dollar-nigger.txt movies/data/the-christmas-wife.txt movies/data/the-talking-parcel.txt movies/data/delta-force-3-the-killing-game.txt movies/data/wagon-trail.txt

@@ -1,1 +1,0 @@
-movies/data/the-french-sex-murders.txt movies/data/amuck.txt

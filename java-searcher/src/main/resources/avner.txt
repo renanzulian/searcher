@@ -1,1 +1,0 @@
-movies/data/defective-detective.txt movies/data/daffy-s-rhapsody.txt

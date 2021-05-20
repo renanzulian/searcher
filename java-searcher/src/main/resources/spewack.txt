@@ -1,1 +1,0 @@
-movies/data/vogues-of-1938.txt

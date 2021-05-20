@@ -1,1 +1,0 @@
-movies/data/hafalan-shalat-delisa.txt

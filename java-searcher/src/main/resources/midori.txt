@@ -1,1 +1,0 @@
-movies/data/sayonara-midori-chan.txt movies/data/blind-beast.txt

@@ -1,1 +1,0 @@
-movies/data/frazetta-painting-with-fire.txt movies/data/motion-painting-no-1.txt movies/data/painters-painting.txt movies/data/condo-painting.txt

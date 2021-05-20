@@ -1,1 +1,0 @@
-movies/data/pretty-as-a-picture-the-art-of-david-lynch.txt

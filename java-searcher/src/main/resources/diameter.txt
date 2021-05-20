@@ -1,1 +1,0 @@
-movies/data/diameter-of-the-bomb.txt

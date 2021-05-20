@@ -1,1 +1,0 @@
-movies/data/seeds-of-tragedy.txt movies/data/the-hot-spot.txt

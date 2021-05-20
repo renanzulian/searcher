@@ -1,1 +1,0 @@
-movies/data/up-your-alley.txt movies/data/964-pinocchio.txt

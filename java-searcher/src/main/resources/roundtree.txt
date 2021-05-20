@@ -1,1 +1,0 @@
-movies/data/portrait-of-a-hitman.txt movies/data/getting-even.txt movies/data/bloodfist-iii-forced-to-fight.txt movies/data/maniac-cop.txt movies/data/wild-seven.txt movies/data/diamonds.txt

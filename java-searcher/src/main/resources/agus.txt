@@ -1,1 +1,0 @@
-movies/data/peggio-per-me-meglio-per-te.txt movies/data/kita-versus-korupsi.txt

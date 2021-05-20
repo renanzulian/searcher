@@ -1,1 +1,0 @@
-movies/data/pyar-hua-chori-chori.txt

@@ -1,1 +1,0 @@
-movies/data/snezhnaya-koroleva.txt movies/data/yulenka.txt

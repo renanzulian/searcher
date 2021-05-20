@@ -1,1 +1,0 @@
-movies/data/stripped-down.txt movies/data/america-stripped-naked-las-vegas.txt movies/data/stripped-naked.txt movies/data/devon-stripped.txt

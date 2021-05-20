@@ -1,1 +1,0 @@
-movies/data/karak.txt movies/data/state-property.txt movies/data/airplane.txt

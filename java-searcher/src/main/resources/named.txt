@@ -1,1 +1,0 @@
-movies/data/cadillac-named-desire.txt movies/data/a-streetcar-named-desire.txt movies/data/a-dog-named-pain.txt movies/data/a-gnome-named-gnorm.txt movies/data/a-bear-named-winnie.txt

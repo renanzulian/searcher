@@ -1,1 +1,0 @@
-movies/data/maine-gandhi-ko-nahi-mara.txt movies/data/naina.txt movies/data/daud.txt movies/data/aflatoon.txt

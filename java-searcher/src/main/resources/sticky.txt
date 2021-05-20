@@ -1,1 +1,0 @@
-movies/data/a-sticky-woman.txt

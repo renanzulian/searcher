@@ -1,1 +1,0 @@
-movies/data/strikeforce-at-the-dome.txt movies/data/strikeforce-tate-vs-rousey.txt movies/data/strikeforce-challengers-11-bowling-vs-voelker.txt movies/data/strikeforce-revenge.txt movies/data/strikeforce-challengers-10-riggs-vs-taylor.txt

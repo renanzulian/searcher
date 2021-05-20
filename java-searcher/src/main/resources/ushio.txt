@@ -1,1 +1,0 @@
-movies/data/cutie-and-the-boxer.txt

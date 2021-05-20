@@ -1,1 +1,0 @@
-movies/data/boz-thank-you-god-for-colors-and-shapes.txt movies/data/i-thank-you.txt

@@ -1,1 +1,0 @@
-movies/data/christmas-in-wonderland.txt movies/data/three-wishes.txt movies/data/point-break.txt movies/data/next-of-kin.txt movies/data/forced-to-kill.txt movies/data/ghost.txt movies/data/father-hood.txt movies/data/letters-from-a-killer.txt

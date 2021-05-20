@@ -1,1 +1,0 @@
-movies/data/maayavi.txt movies/data/mass.txt movies/data/sat-sri-akal.txt movies/data/thulasi.txt movies/data/aarya.txt

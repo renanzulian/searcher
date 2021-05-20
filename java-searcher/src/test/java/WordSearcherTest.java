@@ -1,18 +1,21 @@
 import io.nailuz.WordSearcher;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Set;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class WordSearcherTest {
-    WordSearcher ws = new WordSearcher();
 
     @Test
     public void performanceTest() {
+        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
         double startTime = System.currentTimeMillis();
         String[] wordsToSearch = {"hero"};
-        this.ws.search(wordsToSearch);
+        ws.search(wordsToSearch);
         double performanceTime = System.currentTimeMillis() - startTime;
         String messageError = "Should performance at most 10ms, but get " + performanceTime + "ms";
         assertTrue(performanceTime <= 10, messageError);
@@ -20,30 +23,43 @@ class WordSearcherTest {
 
     @Test
     public void withoutWordsProvided() {
+        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
         String[] words = new String[0];
-        Set<String> results = this.ws.search(words);
+        Set<String> results = ws.search(words);
         assertEquals(0, results.size());
     }
 
     @Test
     public void withWordNoAvailable() {
+        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
         String[] words = {"renanzulian"};
-        Set<String> results = this.ws.search(words);
+        Set<String> results = ws.search(words);
         assertEquals(0, results.size());
     }
 
     @Test
     public void withValidWords() {
-        String[] words = {"walt", "disney"};
-        Set<String> results = this.ws.search(words);
-        assertEquals(53, results.size());
-        assertTrue(results.contains("movies/data/dog-watch.txt"));
+        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
+        String[] words = {"bellator"};
+        Set<String> results = ws.search(words);
+        assertTrue(results.contains("example/bellator-10.txt"));
+        assertEquals(9, results.size());
+    }
+
+    @Test
+    public void withManyWords() {
+        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
+        String[] words = {"peter", "man"};
+        Set<String> results = ws.search(words);
+        assertEquals(1, results.size());
     }
 
     @Test
     public void withInexistentsWords() {
+        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
         String[] words = {"renan"};
-        Set<String> results = this.ws.search(words);
+        Set<String> results = ws.search(words);
         assertEquals(0, results.size());
     }
+
 }

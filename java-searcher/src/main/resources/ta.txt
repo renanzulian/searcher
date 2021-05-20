@@ -1,1 +1,0 @@
-movies/data/chinese-hercules.txt

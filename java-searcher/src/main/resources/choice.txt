@@ -1,1 +1,0 @@
-movies/data/one-night-choice-of-evil.txt movies/data/terminal-choice.txt

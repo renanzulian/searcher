@@ -1,1 +1,0 @@
-movies/data/dhoom-2.txt movies/data/paanch.txt movies/data/new-york.txt movies/data/ek-chotti-si-love-story.txt movies/data/aatish.txt movies/data/thambivudaiyan.txt movies/data/aashiqui-2.txt

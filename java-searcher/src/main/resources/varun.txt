@@ -1,1 +1,0 @@
-movies/data/kotha-bangaru-lokam.txt movies/data/maro-charitra.txt

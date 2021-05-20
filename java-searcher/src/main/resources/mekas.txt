@@ -1,1 +1,0 @@
-movies/data/reminiscences-of-a-journey-to-lithuania.txt movies/data/diaries-notes-and-sketches.txt movies/data/as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-of-beauty.txt movies/data/wtc-haikus.txt movies/data/anger-me.txt

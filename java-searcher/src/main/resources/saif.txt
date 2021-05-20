@@ -1,1 +1,0 @@
-movies/data/parineeta.txt movies/data/love-aaj-kal.txt movies/data/hum-tum.txt

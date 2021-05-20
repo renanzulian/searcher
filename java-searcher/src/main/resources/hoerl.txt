@@ -1,1 +1,0 @@
-movies/data/cross-examination.txt movies/data/arizona-stage-coach.txt

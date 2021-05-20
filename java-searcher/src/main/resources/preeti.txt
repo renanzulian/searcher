@@ -1,1 +1,0 @@
-movies/data/thammudu.txt movies/data/bikkar-bai-sentimental.txt movies/data/narasimha-naidu.txt

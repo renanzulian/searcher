@@ -1,1 +1,0 @@
-movies/data/panorama-blue.txt movies/data/the-six-thousand-dollar-nigger.txt movies/data/escape-of-the-birdmen.txt movies/data/little-nemo-adventures-in-slumberland.txt movies/data/the-sexpert.txt

@@ -1,1 +1,0 @@
-movies/data/shake-hands-with-the-devil.txt

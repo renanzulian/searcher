@@ -1,1 +1,0 @@
-movies/data/amin-jensen-stort-ii.txt

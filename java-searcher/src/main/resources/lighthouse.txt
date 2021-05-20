@@ -1,1 +1,0 @@
-movies/data/lighthouse.txt movies/data/under-the-lighthouse-dancing.txt

@@ -1,1 +1,0 @@
-movies/data/mountain-vigil.txt movies/data/inhabitants.txt

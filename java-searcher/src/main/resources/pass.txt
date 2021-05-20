@@ -1,1 +1,0 @@
-movies/data/two-crosses-in-danger-pass.txt movies/data/the-highest-pass.txt

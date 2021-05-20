@@ -1,1 +1,0 @@
-movies/data/the-boston-strangler.txt movies/data/the-hillside-strangler.txt movies/data/strangler-of-the-swamp.txt

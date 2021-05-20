@@ -1,1 +1,0 @@
-movies/data/teen-maar.txt movies/data/kalyan-ram-kathi.txt movies/data/thammudu.txt movies/data/akkada-ammayi-ikkada-abbayi.txt movies/data/tholi-prema.txt movies/data/panjaa.txt

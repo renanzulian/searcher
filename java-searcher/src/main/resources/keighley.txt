@@ -1,1 +1,0 @@
-movies/data/g-men.txt movies/data/the-singing-kid.txt movies/data/god-s-country-and-the-woman.txt movies/data/rocky-mountain.txt movies/data/the-right-to-live.txt movies/data/the-fighting-69th.txt

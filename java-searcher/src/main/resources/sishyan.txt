@@ -1,1 +1,0 @@
-movies/data/guru-sishyan.txt

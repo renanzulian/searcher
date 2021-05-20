@@ -1,1 +1,0 @@
-movies/data/bingo.txt movies/data/exterminator-city.txt movies/data/boobs-an-american-obsession.txt movies/data/battle-queen-2020.txt movies/data/planet-of-the-erotic-ape.txt movies/data/armageddon-boulevard.txt movies/data/the-killing-strain.txt movies/data/something-to-scream-about.txt movies/data/sorceress-ii-the-temptress.txt movies/data/lethal-seduction.txt

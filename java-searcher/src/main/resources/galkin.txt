@@ -1,1 +1,0 @@
-movies/data/mirror-for-a-hero.txt movies/data/kotovsky.txt movies/data/in-the-zone-of-special-attention.txt movies/data/in-august-of-1944.txt

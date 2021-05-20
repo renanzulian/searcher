@@ -1,1 +1,0 @@
-movies/data/the-garden-of-allah.txt movies/data/allah-ke-banday.txt

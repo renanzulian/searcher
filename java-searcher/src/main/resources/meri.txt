@@ -1,1 +1,0 @@
-movies/data/meri-jung.txt movies/data/phra-rot-meri.txt movies/data/mumbai-meri-jaan.txt movies/data/potseluy-meri-pikford.txt movies/data/teri-meri-kahaani.txt

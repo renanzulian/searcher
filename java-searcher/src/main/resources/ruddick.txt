@@ -1,1 +1,0 @@
-movies/data/one-day-on-earth.txt

@@ -1,1 +1,0 @@
-movies/data/1313-bigfoot-island.txt movies/data/the-legend-of-bigfoot.txt movies/data/shooting-bigfoot.txt

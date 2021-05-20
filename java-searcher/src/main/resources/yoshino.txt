@@ -1,1 +1,0 @@
-movies/data/confessions.txt movies/data/yoshino-s-barber-shop.txt

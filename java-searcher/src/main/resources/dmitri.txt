@@ -1,1 +1,0 @@
-movies/data/ivan.txt movies/data/we-are-from-the-future-2.txt movies/data/kapitan-sovri-golova.txt

@@ -1,1 +1,0 @@
-movies/data/nanook-of-the-north.txt

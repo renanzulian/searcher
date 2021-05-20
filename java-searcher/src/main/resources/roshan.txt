@@ -1,1 +1,0 @@
-movies/data/dhoom-2.txt movies/data/baton-baton-mein.txt movies/data/lakshya.txt movies/data/kishen-kanhaiya.txt movies/data/hamari-bahu-alka.txt

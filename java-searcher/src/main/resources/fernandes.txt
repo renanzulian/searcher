@@ -1,1 +1,0 @@
-movies/data/cesaria-evora-estival-jazz-lugano.txt movies/data/a-culpa.txt movies/data/paula-fernandes-live.txt

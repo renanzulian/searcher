@@ -1,1 +1,0 @@
-movies/data/sky-scrappers.txt movies/data/slug-street-scrappers.txt

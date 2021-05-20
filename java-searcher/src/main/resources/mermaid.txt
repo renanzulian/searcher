@@ -1,1 +1,0 @@
-movies/data/doraemon-nobita-s-great-battle-of-the-mermaid-king.txt movies/data/the-mermaid-frolics.txt movies/data/million-dollar-mermaid.txt movies/data/mermaid.txt

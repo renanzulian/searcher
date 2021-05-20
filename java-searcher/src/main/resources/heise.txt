@@ -1,1 +1,0 @@
-movies/data/crissie-sheridan.txt movies/data/neustadt-stau-stand-der-dinge.txt movies/data/buffalo-dance.txt movies/data/hadj-cheriff.txt movies/data/chinese-laundry-scene.txt movies/data/shooting-the-chutes.txt

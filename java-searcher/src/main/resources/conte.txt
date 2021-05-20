@@ -1,1 +1,0 @@
-movies/data/the-violent-professionals.txt movies/data/il-sergente-rompiglioni-diventa-caporale.txt movies/data/little-red-monkey.txt movies/data/the-brothers-rico.txt movies/data/call-northside-777.txt movies/data/under-the-gun.txt movies/data/the-purple-heart.txt

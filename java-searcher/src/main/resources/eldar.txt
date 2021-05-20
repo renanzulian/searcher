@@ -1,1 +1,0 @@
-movies/data/the-white-caravan.txt movies/data/the-garage.txt movies/data/old-men-robbers.txt movies/data/precious-life.txt movies/data/zigzag-udachi.txt

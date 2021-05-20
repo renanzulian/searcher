@@ -1,1 +1,0 @@
-movies/data/fast-walking.txt movies/data/man-on-a-swing.txt

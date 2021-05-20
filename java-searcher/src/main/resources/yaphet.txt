@@ -1,1 +1,0 @@
-movies/data/across-110th-street.txt movies/data/blue-collar.txt movies/data/bone.txt movies/data/truck-turner.txt movies/data/the-monkey-hustle.txt movies/data/the-star-chamber.txt movies/data/live-and-let-die.txt
