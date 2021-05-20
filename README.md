@@ -4,7 +4,7 @@ Algoritmo de indexação e recuperação de informações em arquivos.
 
 ## Objetivo
 
-Imagine que você tem um diretório com um número muito grande de arquivos .TXT e quer saber qual em quais deles contém um determinado conjunto de palavras com uma perfomance aceitavel. Se o google pudesse acesssar seu diretório seria bacana, não? Com esse algoritmo é possivel recuperar as informações em um tempo aceitavel!
+Imagine que você tem um diretório com um número muito grande de arquivos .TXT e quer saber qual em quais deles contém um determinado conjunto de palavras com uma perfomance aceitavel. Se o google pudesse acesssar seu diretório seria bacana, não? Com esse algoritmo é possivel recuperar as informações em milissegundos!
 
 ## Solução
 
@@ -21,3 +21,9 @@ Você pode encontrar o script de pré-processamento na pastas **scripts**.
 Com o repositório pre processado em mãos, coloque-os no mesmo diretório de um buscado (searcher) das soluções contruídas. 
 
 Você pode encontrar um algoritmo de pesquisa em uma das pastas do diretório. **Estão separados por linguagem de programação**
+
+### Soluções disponíveis
+
+- Java (OK)
+- NodeJS (Em andamento)
+- Python (Backlog)
