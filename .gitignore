@@ -1,4 +1,5 @@
-.idea/
-**/out/
-**/searcher.iml
-**/target
+.idea
+__pycache__
+words/
+tests/words
+tests/__pycache__
