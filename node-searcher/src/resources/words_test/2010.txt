@@ -1,0 +1,1 @@
+example/bellator-32.txt example/bellator-30.txt example/bellator-26.txt example/bellator-28.txt
