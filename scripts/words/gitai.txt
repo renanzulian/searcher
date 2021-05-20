@@ -1,1 +1,0 @@
-movies/data/eden.txt movies/data/wadi-1981-1991.txt movies/data/kippur.txt

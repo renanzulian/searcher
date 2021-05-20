@@ -1,1 +1,0 @@
-movies/data/state-of-emergency.txt

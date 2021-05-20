@@ -1,1 +1,0 @@
-movies/data/johnny-2-0.txt movies/data/i-thank-you.txt

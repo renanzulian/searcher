@@ -1,1 +1,0 @@
-movies/data/checking-out-grand-hotel.txt movies/data/checking-out.txt

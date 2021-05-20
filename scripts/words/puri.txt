@@ -1,1 +1,0 @@
-movies/data/west-is-west.txt movies/data/desamuduru.txt movies/data/happy-now.txt movies/data/night-s-end.txt movies/data/shirin-farhad-ki-toh-nikal-padi.txt movies/data/jhooth-bole-kauwa-kaate.txt

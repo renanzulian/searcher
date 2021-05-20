@@ -1,1 +1,0 @@
-movies/data/a-close-call-for-ellery-queen.txt movies/data/sweepings.txt movies/data/behind-green-lights.txt movies/data/traveling-saleslady.txt movies/data/they-knew-what-they-wanted.txt movies/data/lucky-devils.txt movies/data/the-story-of-temple-drake.txt

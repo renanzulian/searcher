@@ -1,1 +1,0 @@
-movies/data/the-buddha.txt movies/data/compassion-in-emptiness.txt movies/data/discover-the-gift.txt

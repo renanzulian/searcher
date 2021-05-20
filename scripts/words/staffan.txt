@@ -1,1 +1,0 @@
-movies/data/waxwork.txt movies/data/strip.txt

@@ -1,1 +1,0 @@
-movies/data/the-mines.txt movies/data/jiminy-glick-in-lalawood.txt movies/data/lock-up.txt

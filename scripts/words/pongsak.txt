@@ -1,1 +1,0 @@
-movies/data/blackbeard.txt movies/data/teng-nong-jiworn-bin.txt

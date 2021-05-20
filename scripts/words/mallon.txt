@@ -1,1 +1,0 @@
-movies/data/mystery-science-theater-3000-the-movie.txt

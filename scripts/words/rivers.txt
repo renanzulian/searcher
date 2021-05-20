@@ -1,1 +1,0 @@
-movies/data/indiscretion.txt movies/data/2008-boston-celtics-official-nba-finals-film.txt movies/data/rabbit-test.txt movies/data/3-rivers-progressive-rock-festival.txt

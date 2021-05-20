@@ -1,1 +1,0 @@
-movies/data/storm-over-mont-blanc.txt

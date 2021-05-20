@@ -1,1 +1,0 @@
-movies/data/american-scream-king.txt movies/data/impulse-black.txt

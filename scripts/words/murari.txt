@@ -1,1 +1,0 @@
-movies/data/chala-murari-hero-banne.txt movies/data/kedi.txt movies/data/i-d.txt

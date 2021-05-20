@@ -1,1 +1,0 @@
-movies/data/jane-doe-the-wrong-face.txt

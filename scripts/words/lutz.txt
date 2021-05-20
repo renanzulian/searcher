@@ -1,1 +1,0 @@
-movies/data/arena.txt movies/data/my-amityville-horror.txt movies/data/the-legend-of-hercules.txt movies/data/the-goebbels-experiment.txt

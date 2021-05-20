@@ -1,1 +1,0 @@
-movies/data/open-letter-to-the-evening-news.txt movies/data/pensavo-fosse-amore-invece-era-un-calesse.txt movies/data/una-notte-blu-cobalto.txt movies/data/st-peter.txt movies/data/don-gnocchi-l-angelo-dei-bimbi.txt

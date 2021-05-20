@@ -1,1 +1,0 @@
-movies/data/there-once-was-a-dog.txt movies/data/otstavnoy-kozy-barabanshchik.txt

@@ -1,1 +1,0 @@
-movies/data/bobik-visiting-barbos.txt

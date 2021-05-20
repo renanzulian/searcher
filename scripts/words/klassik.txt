@@ -1,1 +1,0 @@
-movies/data/ostrock-in-klassik.txt

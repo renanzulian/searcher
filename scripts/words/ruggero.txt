@@ -1,1 +1,0 @@
-movies/data/the-career-of-a-chambermaid.txt movies/data/apartment-in-athens.txt movies/data/the-concorde-affair.txt movies/data/the-washing-machine.txt movies/data/buonanotte-avvocato.txt

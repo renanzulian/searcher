@@ -1,1 +1,0 @@
-movies/data/george-washington.txt movies/data/nightscream.txt

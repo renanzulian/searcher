@@ -1,1 +1,0 @@
-movies/data/the-leopard-s-spots.txt

@@ -1,1 +1,0 @@
-movies/data/aki-sora.txt movies/data/gammera-the-invincible.txt movies/data/secretary-rope-discipline.txt movies/data/captain-tsubasa-movie-03-run-to-catch-the-tomorrow.txt

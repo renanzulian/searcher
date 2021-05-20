@@ -1,1 +1,0 @@
-movies/data/antardwand.txt movies/data/dasvidaniya.txt movies/data/straight.txt

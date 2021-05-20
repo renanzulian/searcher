@@ -1,1 +1,0 @@
-movies/data/la-yuma.txt movies/data/3-10-to-yuma.txt

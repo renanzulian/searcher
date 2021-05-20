@@ -1,1 +1,0 @@
-movies/data/prime-risk.txt movies/data/risk-reward.txt

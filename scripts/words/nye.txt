@@ -1,1 +1,0 @@
-movies/data/pollyanna.txt movies/data/sand.txt movies/data/phish-nye-run-2011.txt

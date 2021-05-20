@@ -1,1 +1,0 @@
-movies/data/the-man-from-the-diners-club.txt movies/data/hare-remover.txt movies/data/little-pancho-vanilla.txt movies/data/who-s-minding-the-store.txt movies/data/it-only-money.txt movies/data/the-disorderly-orderly.txt movies/data/the-glass-bottom-boat.txt movies/data/a-tale-of-two-mice.txt movies/data/susan-slept-here.txt movies/data/cracked-ice.txt

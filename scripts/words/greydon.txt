@@ -1,1 +1,0 @@
-movies/data/skinheads.txt movies/data/the-forbidden-dance.txt movies/data/satan-s-sadists.txt

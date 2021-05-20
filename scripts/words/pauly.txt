@@ -1,1 +1,0 @@
-movies/data/sevenes.txt movies/data/jury-duty.txt movies/data/pauly-shore-is-dead.txt

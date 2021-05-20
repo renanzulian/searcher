@@ -1,1 +1,0 @@
-movies/data/corporal-vs-napoleon.txt movies/data/hitler-s-kaput.txt

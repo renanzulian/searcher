@@ -31,3 +31,5 @@ Exemplo utilizando o diretório de filmes de exemplo:
 ```shell
 python3 setup.py movies/data/
 ```
+
+Após fazer o pré-processamento, arraste o diretório gerado "words" para o algoritmo que desejar.

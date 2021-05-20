@@ -1,1 +1,0 @@
-movies/data/kino-no-tabi-the-beautiful-world.txt movies/data/la-blue-girl-3-lady-ninja.txt movies/data/border-line.txt movies/data/kino-s-journey-life-goes-on.txt movies/data/white-panic.txt movies/data/the-complex.txt movies/data/the-second-renaissance-part-i.txt movies/data/bitter-end-of-a-sweet-night.txt

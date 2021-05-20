@@ -1,1 +1,0 @@
-movies/data/warm-springs.txt movies/data/hope-springs.txt movies/data/hot-springs-kiss-geisha.txt

@@ -1,1 +1,0 @@
-movies/data/johnny-golden-poker.txt movies/data/ben-arthur.txt movies/data/the-thief.txt

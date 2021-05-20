@@ -1,1 +1,0 @@
-movies/data/sitting-on-the-golden-porch.txt movies/data/asya.txt movies/data/snezhnaya-koroleva.txt movies/data/udacnyy-obmen.txt movies/data/coco-chanel-igor-stravinsky.txt movies/data/vanechka.txt

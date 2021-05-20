@@ -1,1 +1,0 @@
-movies/data/lightning-rod.txt movies/data/teng-nong-jiworn-bin.txt

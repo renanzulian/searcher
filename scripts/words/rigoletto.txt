@@ -1,1 +1,0 @@
-movies/data/giuseppe-verdi-rigoletto.txt

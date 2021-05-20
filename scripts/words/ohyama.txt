@@ -1,1 +1,0 @@
-movies/data/doraemon-nobita-and-the-tin-labyrinth.txt movies/data/doraemon-nobita-and-the-spiral-city.txt

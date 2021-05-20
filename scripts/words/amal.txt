@@ -1,1 +1,0 @@
-movies/data/amal.txt movies/data/sagar-alias-jacky-reloaded.txt

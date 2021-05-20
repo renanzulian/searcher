@@ -1,1 +1,0 @@
-movies/data/panorama-du-grand-canal-pris-d-un-bateau.txt movies/data/the-pyramids-overview.txt

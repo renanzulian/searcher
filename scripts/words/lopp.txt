@@ -1,1 +1,0 @@
-movies/data/throw-out-the-anchor.txt

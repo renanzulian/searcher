@@ -1,1 +1,0 @@
-movies/data/kaiser-chiefs-live-at-rock-in-rio-lisboa.txt movies/data/joss-stone-rock-in-rio-lisboa.txt

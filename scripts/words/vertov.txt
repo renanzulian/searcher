@@ -1,1 +1,0 @@
-movies/data/kino-pravda-no-17.txt movies/data/kino-week.txt movies/data/vskrytie-moshchey-sergiya-radonezhskogo.txt

@@ -1,1 +1,0 @@
-movies/data/toilet.txt movies/data/yoshino-s-barber-shop.txt

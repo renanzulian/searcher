@@ -1,1 +1,0 @@
-movies/data/ausgerechnet-afrika.txt

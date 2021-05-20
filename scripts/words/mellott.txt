@@ -1,1 +1,0 @@
-movies/data/police-story-4-first-strike.txt

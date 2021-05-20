@@ -1,1 +1,0 @@
-movies/data/the-making-of-steven-spielberg-s-jaws.txt movies/data/big.txt movies/data/firelight.txt movies/data/milius.txt movies/data/the-color-purple.txt movies/data/arachnophobia.txt

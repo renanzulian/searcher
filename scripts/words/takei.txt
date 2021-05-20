@@ -1,1 +1,0 @@
-movies/data/toyo-s-camera.txt movies/data/prisoners-of-the-sun.txt

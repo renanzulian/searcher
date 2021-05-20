@@ -1,1 +1,0 @@
-movies/data/nothing-left-to-do-but-cry.txt movies/data/life-is-beautiful.txt movies/data/berlinguer-ti-voglio-bene.txt

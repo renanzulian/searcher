@@ -1,1 +1,0 @@
-movies/data/i-am-a-camera.txt movies/data/genevieve.txt

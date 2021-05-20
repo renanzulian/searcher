@@ -1,1 +1,0 @@
-movies/data/brooklyn-bridge.txt movies/data/devil-s-bridge.txt movies/data/marion-bridge.txt movies/data/tacoma-narrows-bridge-collapse.txt movies/data/the-bridge.txt movies/data/on-westminster-bridge.txt movies/data/rainbow-bridge.txt

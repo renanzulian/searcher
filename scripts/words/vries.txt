@@ -1,1 +1,0 @@
-movies/data/teddy-roosevelt-an-american-lion.txt movies/data/10-terrorists.txt

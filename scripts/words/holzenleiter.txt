@@ -1,1 +1,0 @@
-movies/data/the-stoning.txt movies/data/going-public.txt

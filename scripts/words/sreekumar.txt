@@ -1,1 +1,0 @@
-movies/data/dheem-tharikida-thom.txt movies/data/oru-marubhoomi-kadha.txt movies/data/sakudumbam-shyamala.txt movies/data/grandmaster.txt movies/data/black-truth.txt

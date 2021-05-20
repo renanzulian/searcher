@@ -1,1 +1,0 @@
-movies/data/alangkah-lucunya-negeri-ini.txt movies/data/the-stabilizer.txt

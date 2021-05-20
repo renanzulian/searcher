@@ -1,1 +1,0 @@
-movies/data/anemic-cinema.txt movies/data/let-george-do-it.txt movies/data/shanks.txt movies/data/bejewelled.txt movies/data/tweedledum-as-aviator.txt movies/data/old-bones-of-the-river.txt movies/data/naples-au-baiser-de-feu.txt movies/data/venom-and-eternity.txt movies/data/i-thank-you.txt movies/data/manon-of-the-spring.txt movies/data/giallo-alla-regola.txt

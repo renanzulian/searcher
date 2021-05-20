@@ -1,1 +1,0 @@
-movies/data/funny-people.txt movies/data/funny-face.txt movies/data/we-re-funny-that-way.txt movies/data/jimmy-carr-being-funny.txt movies/data/funny-man.txt movies/data/funny-little-bunnies.txt movies/data/talking-funny.txt

@@ -1,1 +1,0 @@
-movies/data/the-rocking-horse-winner.txt

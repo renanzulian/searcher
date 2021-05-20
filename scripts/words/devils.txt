@@ -1,1 +1,0 @@
-movies/data/japanese-devils.txt movies/data/lucky-devils.txt movies/data/devils-of-monza.txt

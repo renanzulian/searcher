@@ -1,1 +1,0 @@
-movies/data/a-simple-promise.txt movies/data/a-simple-life.txt movies/data/a-simple-wish.txt movies/data/simple-mortel.txt

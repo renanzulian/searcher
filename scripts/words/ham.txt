@@ -1,1 +1,0 @@
-movies/data/ham-and-the-masked-marvel.txt movies/data/chunganggonggyoksu.txt

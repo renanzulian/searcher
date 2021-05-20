@@ -1,1 +1,0 @@
-movies/data/the-last-boy-scout.txt movies/data/cattiva.txt movies/data/now.txt

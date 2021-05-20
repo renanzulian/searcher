@@ -1,1 +1,0 @@
-movies/data/even-money.txt movies/data/ozzie.txt

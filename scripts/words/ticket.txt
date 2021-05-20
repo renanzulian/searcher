@@ -1,1 +1,0 @@
-movies/data/the-ticket-of-leave-man.txt movies/data/ticket.txt

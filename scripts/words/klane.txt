@@ -1,1 +1,0 @@
-movies/data/the-man-with-one-red-shoe.txt movies/data/walk-like-a-man.txt

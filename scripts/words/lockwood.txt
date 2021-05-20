@@ -1,1 +1,0 @@
-movies/data/manhunter.txt movies/data/the-ball-player-and-the-bandit.txt movies/data/mike-stern-didier-lockwood-4tet-jazz-a-vienne.txt movies/data/the-lady-vanishes.txt

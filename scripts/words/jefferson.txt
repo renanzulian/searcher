@@ -1,1 +1,0 @@
-movies/data/maniac-cop.txt movies/data/rip-van-winkle.txt movies/data/bejewelled.txt movies/data/please-kill-mr-know-it-all.txt movies/data/fuel.txt movies/data/nexus.txt

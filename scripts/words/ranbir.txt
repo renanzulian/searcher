@@ -1,1 +1,0 @@
-movies/data/bikkar-bai-sentimental.txt movies/data/wake-up-sid.txt

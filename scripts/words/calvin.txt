@@ -1,1 +1,0 @@
-movies/data/score.txt movies/data/amy-george.txt movies/data/cotton-comes-to-harlem.txt movies/data/visitin-round-at-coolidge-corners.txt

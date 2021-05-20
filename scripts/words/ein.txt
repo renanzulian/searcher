@@ -1,1 +1,0 @@
-movies/data/vietnam-ein-land-im-aufbruch.txt movies/data/ein-sommer-in-paris.txt movies/data/ein-sommer-in-long-island.txt movies/data/ein-sack-voll-geld.txt movies/data/wie-ein-stern-am-himmel.txt movies/data/bushido-deutschland-gib-mir-ein-mic.txt

@@ -1,1 +1,0 @@
-movies/data/le-massaggiatrici.txt movies/data/the-bandit.txt movies/data/the-moralist.txt

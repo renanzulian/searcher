@@ -1,1 +1,0 @@
-movies/data/voodoo-academy.txt movies/data/1313-frankenqueen.txt movies/data/snow-white-a-deadly-summer.txt movies/data/grizzly-rage.txt movies/data/1313-bigfoot-island.txt movies/data/creepozoids.txt movies/data/1313-night-of-the-widow.txt movies/data/killer-bash.txt movies/data/the-brotherhood-2-young-warlocks.txt movies/data/dr-alien.txt movies/data/playing-with-fire.txt

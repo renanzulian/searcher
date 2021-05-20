@@ -1,1 +1,0 @@
-movies/data/daily-lives-of-high-school-boys.txt movies/data/japanese-devils.txt movies/data/bob-james-keikomatsui-altair-vega.txt movies/data/the-snake-girl-and-the-silver-haired-witch.txt movies/data/pride-3.txt

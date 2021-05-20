@@ -1,1 +1,0 @@
-movies/data/frankenstein.txt movies/data/king-richard-the-second.txt movies/data/the-wicked-lady.txt movies/data/the-canterville-ghost.txt

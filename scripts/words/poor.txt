@@ -1,1 +1,0 @@
-movies/data/mother-terese-in-the-name-of-god-s-poor.txt movies/data/poor-cinderella.txt movies/data/the-poor-little-rich-girl.txt

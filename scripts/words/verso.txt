@@ -1,1 +1,0 @@
-movies/data/tre-giorni-di-anarchia.txt movies/data/el-verso.txt

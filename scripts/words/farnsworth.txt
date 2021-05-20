@@ -1,1 +1,0 @@
-movies/data/misery.txt movies/data/anne-of-green-gables.txt movies/data/the-grey-fox.txt movies/data/tom-horn.txt

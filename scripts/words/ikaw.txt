@@ -1,1 +1,0 @@
-movies/data/pangako-ikaw-lang.txt

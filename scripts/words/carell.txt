@@ -1,1 +1,0 @@
-movies/data/hope-springs.txt movies/data/bicycle-thieves.txt movies/data/dinner-for-schmucks.txt

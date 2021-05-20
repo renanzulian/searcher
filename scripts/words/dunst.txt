@@ -1,1 +1,0 @@
-movies/data/elizabethtown.txt movies/data/small-soldiers.txt

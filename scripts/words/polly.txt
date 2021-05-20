@@ -1,1 +1,0 @@
-movies/data/polly-tix-in-washington.txt movies/data/head-cold.txt movies/data/direct-action.txt

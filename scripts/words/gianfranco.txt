@@ -1,1 +1,0 @@
-movies/data/white-slave.txt movies/data/zombie-holocaust.txt movies/data/if-you-meet-sartana-pray-for-your-death.txt movies/data/the-last-hunter.txt movies/data/five-for-hell.txt movies/data/evil-senses.txt

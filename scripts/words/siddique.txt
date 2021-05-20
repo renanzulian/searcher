@@ -1,1 +1,0 @@
-movies/data/allibhai.txt movies/data/naran.txt

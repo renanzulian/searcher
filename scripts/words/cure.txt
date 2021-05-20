@@ -1,1 +1,0 @@
-movies/data/the-cure-show.txt movies/data/kill-or-cure.txt movies/data/the-cure-in-orange.txt movies/data/a-cure-for-pokeritis.txt

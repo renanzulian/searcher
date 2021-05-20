@@ -1,1 +1,0 @@
-movies/data/parineeta.txt movies/data/3-idiots.txt movies/data/kareeb.txt movies/data/muqaddar-ka-sikandar.txt movies/data/parichay.txt movies/data/hero.txt

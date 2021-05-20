@@ -1,1 +1,0 @@
-movies/data/faccione.txt movies/data/circle-of-two.txt movies/data/snezhnaya-koroleva.txt

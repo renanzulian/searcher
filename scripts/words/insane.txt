@@ -1,1 +1,0 @@
-movies/data/criminally-insane.txt

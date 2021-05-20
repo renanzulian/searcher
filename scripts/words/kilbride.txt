@@ -1,1 +1,0 @@
-movies/data/the-egg-and-i.txt

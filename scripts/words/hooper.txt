@@ -1,1 +1,0 @@
-movies/data/eaten-alive.txt movies/data/boxcar-bertha.txt movies/data/lifeforce.txt movies/data/birthday-blues.txt movies/data/longford.txt movies/data/clearing-the-range.txt

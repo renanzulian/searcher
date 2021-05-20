@@ -1,1 +1,0 @@
-movies/data/athisaya-piravi.txt movies/data/enkeyo-ketta-kural.txt movies/data/guru-sishyan.txt

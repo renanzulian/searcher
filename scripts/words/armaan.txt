@@ -1,1 +1,0 @@
-movies/data/chanchal.txt movies/data/armaan.txt

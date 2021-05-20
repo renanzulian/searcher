@@ -1,1 +1,0 @@
-movies/data/copkiller.txt movies/data/night-bus.txt movies/data/black-belly-of-the-tarantula.txt movies/data/the-desert-of-the-tartars.txt movies/data/bonjour-michel.txt movies/data/the-garden-of-the-finzi-continis.txt movies/data/the-antichrist.txt movies/data/colossus-and-the-amazon-queen.txt

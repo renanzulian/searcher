@@ -1,1 +1,0 @@
-movies/data/under-the-hawthorn-tree.txt movies/data/yellow-earth.txt movies/data/lady-whirlwind.txt movies/data/bikkar-bai-sentimental.txt movies/data/the-gene-generation.txt movies/data/lalitha.txt

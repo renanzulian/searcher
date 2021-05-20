@@ -1,1 +1,0 @@
-movies/data/gunfight-at-the-o-k-corral.txt movies/data/south-sea-woman.txt movies/data/vera-cruz.txt movies/data/judgment-at-nuremberg.txt movies/data/i-walk-alone.txt movies/data/the-kentuckian.txt movies/data/on-wings-of-eagles.txt movies/data/sweet-smell-of-success.txt movies/data/the-unforgiven.txt

@@ -1,1 +1,0 @@
-movies/data/chukkallo-chandrudu.txt movies/data/straight.txt movies/data/180.txt movies/data/shikshanachya-aaicha-gho.txt movies/data/striker.txt movies/data/grandmaster.txt movies/data/hum-tum.txt movies/data/husbands-in-goa.txt

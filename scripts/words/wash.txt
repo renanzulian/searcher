@@ -1,1 +1,0 @@
-movies/data/mabel-and-fatty-s-wash-day.txt movies/data/car-wash-girls-2.txt movies/data/car-wash.txt

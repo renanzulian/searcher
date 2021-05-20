@@ -1,1 +1,0 @@
-movies/data/whaling-afloat-and-ashore.txt

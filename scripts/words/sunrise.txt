@@ -1,1 +1,0 @@
-movies/data/half-shot-at-sunrise.txt movies/data/23-minutes-to-sunrise.txt

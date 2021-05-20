@@ -1,1 +1,0 @@
-movies/data/multiple-maniacs.txt movies/data/pink-flamingos.txt movies/data/the-diane-linkletter-story.txt

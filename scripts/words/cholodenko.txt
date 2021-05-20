@@ -1,1 +1,0 @@
-movies/data/high-art.txt movies/data/cavedweller.txt

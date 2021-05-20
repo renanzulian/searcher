@@ -1,1 +1,0 @@
-movies/data/sumpah-pocong-di-sekolah.txt movies/data/a-witch-s-tangled-hare.txt movies/data/trick-the-movie-psychic-battle-royale.txt movies/data/fist-of-the-north-star-the-legend-of-kenshiro.txt movies/data/really-scent.txt movies/data/xx-where-your-heart-should-be.txt movies/data/brute-corps.txt movies/data/cheers-from-heaven.txt movies/data/bleach-memories-in-the-rain.txt

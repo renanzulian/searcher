@@ -1,1 +1,0 @@
-movies/data/way-of-nature.txt

@@ -1,1 +1,0 @@
-movies/data/febbre-di-vivere.txt movies/data/l-impiegato.txt movies/data/love-and-larceny.txt

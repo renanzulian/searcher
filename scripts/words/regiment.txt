@@ -1,1 +1,0 @@
-movies/data/sharpe-s-regiment.txt

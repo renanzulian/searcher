@@ -1,1 +1,0 @@
-movies/data/antara-dua-darjat.txt movies/data/dua-kalimah.txt

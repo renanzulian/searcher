@@ -1,1 +1,0 @@
-movies/data/confine.txt movies/data/daisy.txt movies/data/daisy-doodad-s-dial.txt movies/data/honeymooner.txt movies/data/seven-deadly-sins.txt movies/data/the-story-of-daisy.txt movies/data/up-in-daisy-s-penthouse.txt movies/data/ripe.txt movies/data/the-dwarfs.txt movies/data/pull-my-daisy.txt

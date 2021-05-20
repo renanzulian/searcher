@@ -1,1 +1,0 @@
-movies/data/mr-jones.txt movies/data/that-strange-person.txt

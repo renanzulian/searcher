@@ -1,1 +1,0 @@
-movies/data/i-wish-to-speak.txt movies/data/ku-kin-dza-dza.txt

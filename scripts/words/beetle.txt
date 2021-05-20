@@ -1,1 +1,0 @@
-movies/data/beetle-as-bad-as-can.txt movies/data/bootle-beetle.txt

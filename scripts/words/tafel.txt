@@ -1,1 +1,0 @@
-movies/data/ein-sommer-in-long-island.txt

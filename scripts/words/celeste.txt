@@ -1,1 +1,0 @@
-movies/data/man-s-ruin.txt movies/data/hearts-and-minds-2-modern-warfare.txt movies/data/captured-beauty.txt movies/data/the-face-of-eve.txt movies/data/private-property.txt movies/data/transsexual-babysitters-17.txt

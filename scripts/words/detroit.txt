@@ -1,1 +1,0 @@
-movies/data/doctor-detroit.txt movies/data/the-detroit-rock-movie.txt movies/data/kiss-1977-live-at-cobo-hall-detroit.txt

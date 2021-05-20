@@ -1,1 +1,0 @@
-movies/data/mr-perfect.txt movies/data/greeku-veerudu.txt

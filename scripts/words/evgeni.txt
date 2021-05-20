@@ -1,1 +1,0 @@
-movies/data/mimino.txt movies/data/zigzag-udachi.txt movies/data/ordinary-miracle.txt movies/data/afonya.txt movies/data/kill-the-dragon.txt movies/data/the-elder-son.txt

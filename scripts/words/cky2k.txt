@@ -1,1 +1,0 @@
-movies/data/cky2k.txt

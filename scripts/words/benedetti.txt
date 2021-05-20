@@ -1,1 +1,0 @@
-movies/data/mille-bolle-blu.txt movies/data/cameriera-bella-presenza-offresi.txt

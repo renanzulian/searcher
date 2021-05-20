@@ -1,1 +1,0 @@
-movies/data/ahmad-shamlou-master-poet-of-liberty.txt movies/data/andrei-tarkovsky-a-poet-in-the-cinema.txt

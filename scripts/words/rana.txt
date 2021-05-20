@@ -1,1 +1,0 @@
-movies/data/bikkar-bai-sentimental.txt movies/data/char-din-ki-chandni.txt movies/data/krishnam-vande-jagadgurum.txt

@@ -1,1 +1,0 @@
-movies/data/psychic.txt movies/data/a-house-in-the-hills.txt

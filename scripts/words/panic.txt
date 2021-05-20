@@ -1,1 +1,0 @@
-movies/data/white-panic.txt movies/data/panic-on-the-5-22.txt

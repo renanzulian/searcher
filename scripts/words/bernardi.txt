@@ -1,1 +1,0 @@
-movies/data/gallo-cedrone.txt movies/data/candido-erotico.txt movies/data/murder-by-contract.txt movies/data/i-mitici-colpo-gobbo-a-milano.txt movies/data/i-won-the-new-year-s-lottery.txt movies/data/i-picari.txt

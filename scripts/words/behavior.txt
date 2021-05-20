@@ -1,1 +1,0 @@
-movies/data/model-behavior.txt movies/data/mindless-behavior-all-around-the-world.txt

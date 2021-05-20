@@ -1,1 +1,0 @@
-movies/data/curse-of-the-zodiac.txt movies/data/haytabo.txt

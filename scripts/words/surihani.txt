@@ -1,1 +1,0 @@
-movies/data/ombak-rindu.txt movies/data/saya-amat-mencintaimu.txt

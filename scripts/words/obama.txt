@@ -1,1 +1,0 @@
-movies/data/president-barack-obama-the-man-and-his-journey.txt movies/data/by-the-people-the-election-of-barack-obama.txt movies/data/paul-mccartney-in-performance-at-the-white-house.txt

@@ -1,1 +1,0 @@
-movies/data/equinox.txt movies/data/the-cockeyed-cowboys-of-calico-county.txt

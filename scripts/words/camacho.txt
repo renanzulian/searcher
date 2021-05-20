@@ -1,1 +1,0 @@
-movies/data/gangland.txt movies/data/sci-fighter.txt movies/data/point-doom.txt

@@ -1,1 +1,0 @@
-movies/data/hanbando.txt

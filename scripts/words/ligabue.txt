@@ -1,1 +1,0 @@
-movies/data/ligabue-tutte-le-facce-del-mostro.txt movies/data/ligabue-teatro-nome-e-cognome-tour.txt movies/data/ligabue-in-arena.txt movies/data/ligabue-palasport-nome-e-cognome-tour.txt movies/data/ligabue-campovolo-il-film.txt

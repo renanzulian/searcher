@@ -1,1 +1,0 @@
-movies/data/hercules-in-the-haunted-world.txt movies/data/il-posto.txt movies/data/who-killed-pasolini.txt movies/data/il-profeta-del-gol.txt

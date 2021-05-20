@@ -1,1 +1,0 @@
-movies/data/mimic.txt movies/data/fear-and-loathing-in-las-vegas.txt movies/data/excess-baggage.txt movies/data/pacific-rim.txt movies/data/amityville-it-s-about-time.txt movies/data/the-way-of-the-gun.txt movies/data/amityville-a-new-generation.txt

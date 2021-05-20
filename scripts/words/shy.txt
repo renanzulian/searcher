@@ -1,1 +1,0 @@
-movies/data/girl-shy.txt movies/data/camera-shy.txt

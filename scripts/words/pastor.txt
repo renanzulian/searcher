@@ -1,1 +1,0 @@
-movies/data/the-pastor-s-wife.txt movies/data/the-commissioner.txt movies/data/portrait-of-teresa.txt

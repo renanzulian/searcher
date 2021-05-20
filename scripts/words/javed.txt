@@ -1,1 +1,0 @@
-movies/data/majboor.txt movies/data/armaan.txt movies/data/lakshya.txt movies/data/deewaar.txt movies/data/oh-darling-yeh-hai-india.txt

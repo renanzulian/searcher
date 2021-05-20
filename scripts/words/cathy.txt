@@ -1,1 +1,0 @@
-movies/data/casper.txt movies/data/side-street.txt movies/data/kentucky-rifle.txt movies/data/six-bend-trap.txt movies/data/lovers-and-lollipops.txt movies/data/heebie-jeebies.txt movies/data/short-grass.txt

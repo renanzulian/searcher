@@ -1,1 +1,0 @@
-movies/data/blessed-and-cursed.txt

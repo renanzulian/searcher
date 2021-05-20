@@ -1,1 +1,0 @@
-movies/data/mechta.txt movies/data/nasha-masha-i-volshebnyy-orekh.txt movies/data/inside-baby-sister.txt movies/data/suicides.txt

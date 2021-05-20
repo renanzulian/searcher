@@ -1,1 +1,0 @@
-movies/data/love-twisted.txt movies/data/hotaru-the-hyper-swindler-4.txt movies/data/virgin-sky.txt movies/data/night-runner.txt movies/data/extra-number-sora-aoi.txt movies/data/play-angels-vol-2.txt movies/data/happy-go-lucky.txt

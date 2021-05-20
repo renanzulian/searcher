@@ -1,1 +1,0 @@
-movies/data/crimes-of-fashion.txt movies/data/fashion.txt movies/data/chic-point-fashion-for-israeli-checkpoints.txt

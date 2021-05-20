@@ -1,1 +1,0 @@
-movies/data/arch-of-triumph.txt

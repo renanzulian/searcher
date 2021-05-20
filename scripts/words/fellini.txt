@@ -1,1 +1,0 @@
-movies/data/la-strada.txt movies/data/ginger-and-fred.txt

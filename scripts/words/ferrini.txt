@@ -1,1 +1,0 @@
-movies/data/the-stendhal-syndrome.txt movies/data/sognando-la-california.txt movies/data/the-cricket.txt

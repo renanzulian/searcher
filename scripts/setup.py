@@ -32,12 +32,12 @@ def extract_words(lines):
             yield word
 
 
-def save_resources(resources_map: dict):
-    if "resources" in os.listdir():
-        shutil.rmtree("resources")
-    os.mkdir("resources")
+def save_words(resources_map: dict):
+    if "words" in os.listdir():
+        shutil.rmtree("words")
+    os.mkdir("words")
     for word, filenames in resources_map.items():
-        with open(f"resources/{word}.txt", "w+") as f:
+        with open(f"words/{word}.txt", "w+") as f:
             f.write(" ".join(set(filenames)))
 
 
@@ -47,4 +47,4 @@ if __name__ == '__main__':
     path = sys.argv[1]
     file_contents = get_content_of_files(path)
     searcher_map = resources_generator(file_contents)
-    save_resources(searcher_map)
+    save_words(searcher_map)

@@ -1,1 +1,0 @@
-movies/data/barbary-coast.txt movies/data/third-man-on-the-mountain.txt movies/data/the-truth-about-spring.txt

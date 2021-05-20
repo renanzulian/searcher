@@ -1,1 +1,0 @@
-movies/data/freeway-maniac.txt movies/data/maniac-cop.txt movies/data/maniac-chase.txt

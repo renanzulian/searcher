@@ -1,1 +1,0 @@
-movies/data/dojoji-temple.txt movies/data/japanese-devils.txt movies/data/himizu.txt

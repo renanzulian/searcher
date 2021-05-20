@@ -1,1 +1,0 @@
-movies/data/il-posto.txt movies/data/the-profession-of-arms.txt movies/data/a-certain-day.txt movies/data/racconti-di-giovani-amori.txt movies/data/the-secret-of-the-old-woods.txt movies/data/the-cardboard-village.txt

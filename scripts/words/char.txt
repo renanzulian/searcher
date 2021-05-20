@@ -1,1 +1,0 @@
-movies/data/char-din-ki-chandni.txt movies/data/cavalcade-char-du-soleil.txt

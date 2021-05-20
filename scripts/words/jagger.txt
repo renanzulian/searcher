@@ -1,1 +1,0 @@
-movies/data/rock-and-roll-hall-of-fame-live.txt movies/data/day-of-the-evil-gun.txt movies/data/invocation-of-my-demon-brother.txt movies/data/the-hanged-man.txt movies/data/the-proud-rebel.txt movies/data/red-sundown.txt movies/data/ned-kelly.txt

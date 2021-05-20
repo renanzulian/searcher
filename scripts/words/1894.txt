@@ -1,1 +1,0 @@
-movies/data/the-cock-fight.txt movies/data/chinese-laundry-scene.txt movies/data/caicedo-with-pole.txt movies/data/buffalo-dance.txt movies/data/hadj-cheriff.txt movies/data/souvenir-strip-of-the-edison-kinetoscope.txt

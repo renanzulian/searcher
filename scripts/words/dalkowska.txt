@@ -1,1 +1,0 @@
-movies/data/cynga.txt movies/data/without-anesthesia.txt

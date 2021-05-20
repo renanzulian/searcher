@@ -1,1 +1,0 @@
-movies/data/the-square.txt movies/data/pyramid.txt movies/data/wadjda.txt

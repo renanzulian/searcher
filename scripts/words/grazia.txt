@@ -1,1 +1,0 @@
-movies/data/italiani.txt movies/data/riccardo-iii.txt

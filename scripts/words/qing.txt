@@ -1,1 +1,0 @@
-movies/data/ticket.txt movies/data/mama.txt

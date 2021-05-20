@@ -1,1 +1,0 @@
-movies/data/3-idiots.txt movies/data/kareeb.txt movies/data/parineeta.txt

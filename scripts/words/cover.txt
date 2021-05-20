@@ -1,1 +1,0 @@
-movies/data/cover-girl-killer.txt movies/data/i-cover-big-town.txt

@@ -1,1 +1,0 @@
-movies/data/blood-reign-curse-of-the-yoma.txt movies/data/reverse-of-the-curse-of-the-bambino.txt movies/data/pharaoh-s-curse.txt movies/data/curse-eternal.txt movies/data/curse-of-the-deserted.txt movies/data/curse-of-the-zodiac.txt movies/data/curse-of-the-voodoo.txt movies/data/the-curse.txt movies/data/yeti-curse-of-the-snow-demon.txt movies/data/saga-curse-of-the-shadow.txt

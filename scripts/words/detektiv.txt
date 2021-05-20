@@ -1,1 +1,0 @@
-movies/data/moy-nezhno-lyubimyy-detektiv.txt

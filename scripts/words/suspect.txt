@@ -1,1 +1,0 @@
-movies/data/suspect-zero.txt movies/data/the-last-suspect.txt

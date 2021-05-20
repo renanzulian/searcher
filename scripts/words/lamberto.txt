@@ -1,1 +1,0 @@
-movies/data/demons-2.txt movies/data/sangue-vivo.txt movies/data/bicycle-thieves.txt

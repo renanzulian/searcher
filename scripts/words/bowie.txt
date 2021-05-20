@@ -1,1 +1,0 @@
-movies/data/resort-massacre.txt movies/data/the-boy-in-blue.txt movies/data/fraternity-demon.txt movies/data/b-u-s-t-e-d.txt movies/data/love-you-till-tuesday.txt

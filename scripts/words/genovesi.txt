@@ -1,1 +1,0 @@
-movies/data/la-peggior-settimana-della-mia-vita.txt movies/data/the-worst-christmas-of-my-life.txt

@@ -1,1 +1,0 @@
-movies/data/patterns.txt

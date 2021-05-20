@@ -1,1 +1,0 @@
-movies/data/oru-kal-oru-kannadi.txt movies/data/desamuduru.txt

@@ -1,1 +1,0 @@
-movies/data/indiscretion.txt movies/data/frosty-the-snowman.txt movies/data/the-lift.txt movies/data/the-terminal-man.txt movies/data/the-bonfire-of-the-vanities.txt movies/data/when-the-cobra-strikes.txt movies/data/junior-bonner.txt

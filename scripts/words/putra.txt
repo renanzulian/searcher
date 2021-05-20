@@ -1,1 +1,0 @@
-movies/data/the-warrior.txt movies/data/langgar.txt

@@ -1,1 +1,0 @@
-movies/data/fist-fighter.txt movies/data/on-strike-for-christmas.txt

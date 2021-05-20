@@ -1,1 +1,0 @@
-movies/data/der-kaufmann-von-venedig.txt movies/data/adriana-lecouvreur.txt movies/data/murders-in-the-rue-morgue.txt movies/data/brute-corps.txt

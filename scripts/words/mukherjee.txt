@@ -1,1 +1,0 @@
-movies/data/chupke-chupke.txt movies/data/parichay.txt movies/data/junglee.txt movies/data/jhooth-bole-kauwa-kaate.txt movies/data/wake-up-sid.txt

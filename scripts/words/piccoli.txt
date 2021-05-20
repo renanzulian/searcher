@@ -1,1 +1,0 @@
-movies/data/il-bambino-di-betlemme.txt movies/data/malady-of-love.txt

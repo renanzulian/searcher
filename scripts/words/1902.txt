@@ -1,1 +1,0 @@
-movies/data/rotherham-town-v-thornhill.txt movies/data/the-little-match-seller.txt movies/data/panorama-of-cork-exhibition-grounds.txt movies/data/how-to-stop-a-motorcar.txt movies/data/champion-athletes-at-birmingham.txt movies/data/les-victimes-de-l-alcoolisme.txt

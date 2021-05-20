@@ -1,1 +1,0 @@
-movies/data/east-side-story.txt movies/data/mayabazar.txt

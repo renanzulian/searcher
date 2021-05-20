@@ -1,1 +1,0 @@
-movies/data/gangaajal.txt movies/data/parakh.txt movies/data/hello.txt movies/data/allah-ke-banday.txt movies/data/naran.txt movies/data/otona-joshi-no-anime-time-kawamo-o-suberu-kaze.txt

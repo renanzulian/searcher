@@ -1,1 +1,0 @@
-movies/data/voice-in-the-mirror.txt movies/data/the-devil-s-mirror.txt movies/data/goodbye-in-the-mirror.txt movies/data/into-the-mirror.txt movies/data/man-in-the-mirror-the-michael-jackson-story.txt movies/data/mirror-for-a-hero.txt

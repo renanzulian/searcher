@@ -1,1 +1,0 @@
-movies/data/david-goliath.txt movies/data/greatest-heroes-and-legends-of-the-bible-david-and-goliath.txt

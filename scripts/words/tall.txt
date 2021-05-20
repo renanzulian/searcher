@@ -1,1 +1,0 @@
-movies/data/tall-time-tales.txt movies/data/tall-man-riding.txt movies/data/you-will-meet-a-tall-dark-stranger.txt movies/data/tall-timber.txt movies/data/the-long-and-the-short-and-the-tall.txt movies/data/final-chapter-walking-tall.txt movies/data/stand-tall.txt movies/data/a-chinese-tall-story.txt

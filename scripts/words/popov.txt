@@ -1,1 +1,0 @@
-movies/data/bobik-visiting-barbos.txt movies/data/knock-knock-2.txt movies/data/doroga.txt

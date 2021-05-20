@@ -1,1 +1,0 @@
-movies/data/the-pastor-s-wife.txt movies/data/steve-mcqueen-the-essence-of-cool.txt movies/data/everything-s-ducky.txt movies/data/native-son.txt movies/data/the-boy-who-drank-too-much.txt

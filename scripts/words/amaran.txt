@@ -1,1 +1,0 @@
-movies/data/amaran.txt movies/data/vellai-pura-ondru.txt

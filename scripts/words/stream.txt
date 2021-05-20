@@ -1,1 +1,0 @@
-movies/data/the-fisherman-at-the-stream.txt

@@ -1,1 +1,0 @@
-movies/data/when-a-man-rides-alone.txt movies/data/tex-rides-with-the-boy-scouts.txt movies/data/the-apple-dumpling-gang-rides-again.txt movies/data/egghead-rides-again.txt movies/data/the-kid-rides-again.txt movies/data/luke-rides-roughshod.txt

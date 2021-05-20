@@ -1,1 +1,0 @@
-movies/data/in-nome-del-popolo-sovrano.txt movies/data/l-impiegato.txt movies/data/vedo-nudo.txt movies/data/bread-and-chocolate.txt movies/data/adultery-italian-style.txt movies/data/controsesso.txt

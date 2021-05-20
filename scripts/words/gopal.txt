@@ -1,1 +1,0 @@
-movies/data/narasimha-naidu.txt movies/data/daud.txt movies/data/bobbili-raja.txt

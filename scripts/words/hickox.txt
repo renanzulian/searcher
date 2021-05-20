@@ -1,1 +1,0 @@
-movies/data/waxwork.txt movies/data/jill-rips.txt movies/data/sky-riders.txt movies/data/consequence.txt movies/data/knife-edge.txt movies/data/sundown-the-vampire-in-retreat.txt

@@ -1,1 +1,0 @@
-movies/data/in-the-beginning-the-exodus.txt movies/data/exodus.txt movies/data/exodus-live-in-bochum.txt

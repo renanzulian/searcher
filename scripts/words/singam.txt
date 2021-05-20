@@ -1,1 +1,0 @@
-movies/data/singam-puli.txt movies/data/maayavi.txt

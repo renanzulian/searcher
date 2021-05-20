@@ -1,1 +1,0 @@
-movies/data/america-stripped-naked-las-vegas.txt

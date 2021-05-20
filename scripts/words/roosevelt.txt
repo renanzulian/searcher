@@ -1,1 +1,0 @@
-movies/data/teddy-roosevelt-an-american-lion.txt movies/data/roosevelt-s-rough-riders-embarking-for-santiago.txt

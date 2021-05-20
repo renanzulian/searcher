@@ -1,1 +1,0 @@
-movies/data/deputy-droopy.txt movies/data/rocket-bye-baby.txt movies/data/out-foxed.txt movies/data/droopy-s-double-trouble.txt movies/data/that-s-my-pup.txt movies/data/magical-maestro.txt movies/data/tabasco-road.txt movies/data/mucho-mouse.txt

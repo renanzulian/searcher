@@ -1,1 +1,0 @@
-movies/data/amy-george.txt movies/data/the-pact.txt

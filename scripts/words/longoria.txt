@@ -1,1 +1,0 @@
-movies/data/the-dead-will-tell.txt movies/data/the-sentinel.txt

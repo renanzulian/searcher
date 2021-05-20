@@ -1,1 +1,0 @@
-movies/data/the-double-hour.txt movies/data/the-father-and-the-foreigner.txt movies/data/dneprovskiy-rubezh.txt

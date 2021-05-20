@@ -1,1 +1,0 @@
-movies/data/stone.txt movies/data/change-of-mind.txt movies/data/four-minutes.txt

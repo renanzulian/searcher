@@ -1,1 +1,0 @@
-movies/data/laadla.txt movies/data/the-lion-of-punjab.txt movies/data/majboor.txt movies/data/bade-miyan-chote-miyan.txt movies/data/aks.txt movies/data/bulandi.txt

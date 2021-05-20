@@ -1,1 +1,0 @@
-movies/data/pride-3.txt

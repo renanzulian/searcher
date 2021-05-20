@@ -1,1 +1,0 @@
-movies/data/chinna-raja.txt movies/data/thiruppu-munai.txt

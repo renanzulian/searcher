@@ -1,1 +1,0 @@
-movies/data/ogu-y-mampato-en-rapa-nui.txt movies/data/tusk.txt movies/data/ash-wednesday.txt

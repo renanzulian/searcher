@@ -1,1 +1,0 @@
-movies/data/taste-of-fear.txt

@@ -1,1 +1,0 @@
-movies/data/the-boston-strangler.txt movies/data/anneliese-the-exorcist-tapes.txt

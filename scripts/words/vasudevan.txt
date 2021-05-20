@@ -1,1 +1,0 @@
-movies/data/vairam-fight-for-justice.txt movies/data/black-truth.txt

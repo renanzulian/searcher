@@ -1,1 +1,0 @@
-movies/data/bells-of-rosarita.txt movies/data/under-california-stars.txt movies/data/fingers-on-trigger.txt movies/data/the-golden-stallion.txt movies/data/trigger-tom.txt

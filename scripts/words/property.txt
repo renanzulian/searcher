@@ -1,1 +1,0 @@
-movies/data/private-property.txt movies/data/personal-property.txt movies/data/state-property.txt

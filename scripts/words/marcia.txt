@@ -1,1 +1,0 @@
-movies/data/street-corner.txt movies/data/a-day-at-santa-anita.txt movies/data/the-fabulous-fraud.txt movies/data/supersonic-saucer.txt movies/data/funk.txt movies/data/home.txt movies/data/the-spitfire-grill.txt movies/data/barefoot-boy.txt movies/data/canvas.txt movies/data/honey-i-blew-up-the-kid.txt

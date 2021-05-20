@@ -1,1 +1,0 @@
-movies/data/asya.txt movies/data/nomer-lyuks-dlya-generala-s-devochkoi.txt movies/data/adam-s-rib.txt movies/data/the-purple-ball.txt

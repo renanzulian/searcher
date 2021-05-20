@@ -1,1 +1,0 @@
-movies/data/midnight-mary.txt movies/data/the-barbarian.txt movies/data/san-francisco.txt

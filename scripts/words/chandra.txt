@@ -1,1 +1,0 @@
-movies/data/akkada-ammayi-ikkada-abbayi.txt movies/data/aa-naluguru.txt movies/data/zindaggi-rocks.txt movies/data/okkadunnadu.txt movies/data/white-noise.txt movies/data/puppet-master-4.txt movies/data/madhumasam.txt

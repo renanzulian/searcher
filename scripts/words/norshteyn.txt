@@ -1,1 +1,0 @@
-movies/data/the-battle-of-kerzhenets.txt movies/data/the-heron-and-the-crane.txt

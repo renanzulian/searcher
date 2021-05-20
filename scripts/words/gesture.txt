@@ -1,1 +1,0 @@
-movies/data/foul-gesture.txt movies/data/a-gesture-fight-in-hester-street.txt

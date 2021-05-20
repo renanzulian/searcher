@@ -1,1 +1,0 @@
-movies/data/overkill-live-at-wacken-open-air-2007.txt movies/data/airbourne-live-at-wacken-festival-germany-2008.txt movies/data/sepultura-live-at-wacken-open-air.txt

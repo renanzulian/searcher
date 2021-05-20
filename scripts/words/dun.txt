@@ -1,1 +1,0 @@
-movies/data/big-trouble-in-little-china.txt

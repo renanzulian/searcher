@@ -1,1 +1,0 @@
-movies/data/animated-hero-classics-helen-keller.txt movies/data/voice-in-the-mirror.txt movies/data/machine-gun-preacher.txt movies/data/cleopatra-jones.txt movies/data/the-stone-flower.txt movies/data/the-clown-murders.txt movies/data/keller-williams-sight.txt movies/data/helen-keller-in-her-story.txt movies/data/vampires-anonymous.txt

@@ -1,1 +1,0 @@
-movies/data/wheat.txt movies/data/the-silent-scream.txt

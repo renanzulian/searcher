@@ -1,1 +1,0 @@
-movies/data/one-hour-photo.txt movies/data/mr-rossi-at-photo-safari.txt movies/data/photo-de-famille.txt

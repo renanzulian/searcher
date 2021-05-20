@@ -1,1 +1,0 @@
-movies/data/the-nude-princess.txt movies/data/il-barbiere-di-siviglia.txt movies/data/giulio-cesare.txt movies/data/il-mostro-di-firenze.txt movies/data/le-amiche.txt movies/data/violence-for-kicks.txt movies/data/umberto-d.txt

@@ -1,1 +1,0 @@
-movies/data/ballad-of-a-soldier.txt movies/data/operatsiya-eniki-beniki.txt movies/data/suicides.txt movies/data/four-hearts.txt movies/data/old-men-robbers.txt movies/data/the-little-bee.txt movies/data/zigzag-udachi.txt movies/data/povest-nepogashennoy-luny.txt movies/data/persten-naslednika-dinastii.txt movies/data/the-hot-snow.txt

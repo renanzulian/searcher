@@ -1,1 +1,0 @@
-movies/data/goldeneye.txt movies/data/kennedy.txt
