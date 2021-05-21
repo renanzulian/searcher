@@ -30,7 +30,7 @@ class WordSearcherTest {
     }
 
     @Test
-    public void withWordNoAvailable() {
+    public void withUnavailableWord() {
         WordSearcher ws = new WordSearcher(getClass().getClassLoader());
         String[] words = {"renanzulian"};
         Set<String> results = ws.search(words);
@@ -52,14 +52,6 @@ class WordSearcherTest {
         String[] words = {"peter", "man"};
         Set<String> results = ws.search(words);
         assertEquals(1, results.size());
-    }
-
-    @Test
-    public void withInexistentsWords() {
-        WordSearcher ws = new WordSearcher(getClass().getClassLoader());
-        String[] words = {"renan"};
-        Set<String> results = ws.search(words);
-        assertEquals(0, results.size());
     }
 
 }
