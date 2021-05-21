@@ -22,5 +22,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: cd node-searcher/
-    - run: npm ci
+    - run: npm install
     - run: npm test
