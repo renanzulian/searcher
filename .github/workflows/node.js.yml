@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [10.x, 12.x, 14.x, 15.x]
+        node-version: [15.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -22,5 +22,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: cd node-searcher/
+    - run: ls
+    - run: cat package.json
+    - run: ls node-searcher/
     - run: npm install
     - run: npm test
