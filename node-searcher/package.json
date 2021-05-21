@@ -4,7 +4,8 @@
   "description": "",
   "main": "searcher.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "searcher": "node searcher.js"
   },
   "author": "Renan Zulian",
   "license": "MIT",
