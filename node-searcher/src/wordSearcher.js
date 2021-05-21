@@ -1,12 +1,12 @@
 const fs = require('fs');
 
-const defaultWordsPath = "resources/words/"
+const defaultWordsPath = 'src/resources/words/'
 
 function search(words, wordsPath=defaultWordsPath) {
     if(Array.isArray(words)) {
         const contents = [];
         words.forEach((word) => {
-            contents.push(getContents(word, wordsPath))
+            contents.push(getContents(word, wordsPath));
         });
         if (contents.length > 0) {
             let results = new Set([...contents[0]]);
@@ -17,12 +17,12 @@ function search(words, wordsPath=defaultWordsPath) {
         }
         return new Set();
     }
-    return null;
+    throw new TypeError('Words should be a list of strings');
 }
 
 function getContents(desiredWord, wordsPath) {
     try {
-        const content = fs.readFileSync(`${wordsPath + desiredWord}.txt`, 'utf-8');
+        const content = fs.readFileSync(wordsPath + desiredWord + '.txt', 'utf-8');
         return new Set(content.split(' '));
     } catch (error) {
         return new Set();
