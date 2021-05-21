@@ -25,5 +25,5 @@ Você pode encontrar um algoritmo de pesquisa em uma das pastas do diretório. *
 ### Soluções disponíveis
 
 - Java (OK)
-- NodeJS (Em andamento)
-- Python (Backlog)
+- NodeJS (OK)
+- Python (Backlog) - Sem previsão para início.
