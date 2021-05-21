@@ -21,9 +21,6 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-    - run: cd node-searcher/
-    - run: ls
-    - run: cat package.json
-    - run: ls node-searcher/
-    - run: npm install
+    - working-directory: node-searcher/
+    - run: npm ci
     - run: npm test
