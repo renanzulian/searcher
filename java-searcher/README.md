@@ -4,6 +4,11 @@ Esse é um dos algoritmos que você poderá utilizar para fazer a busca por pala
 Caso não tenha o diretório pronto em mãos, retorne ao diretório anterior e acesse a pasta **scripts** e siga as
 instruções antes de buildar a sua solução.
 
+## Pré requisitos
+
+- Java 11
+- Apache Maven
+
 ## Instruções
 
 Trata-se de um projeto em maven, onde você poderá utilizar as funcionalidades básicas de um automatizador de build.
