@@ -9,6 +9,9 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./node-searcher
 
     strategy:
       matrix:
@@ -22,7 +25,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: Running tests
-      working-directory: .node-searcher
       run: |
         ls
         npm ci
