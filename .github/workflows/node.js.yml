@@ -22,7 +22,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: Running tests
-      working-directory: .node-searcher/
+      working-directory: .node-searcher
       run: |
+        ls
         npm ci
         npm test
